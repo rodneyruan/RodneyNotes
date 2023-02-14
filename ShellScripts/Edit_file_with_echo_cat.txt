@@ -1,0 +1,9 @@
+cat <<EOF > print.sh
+#!/bin/bash
+echo \$PWD
+echo $PWD
+EOF
+
+Run cat >a.txt
+Enter your text
+Press Ctrl+D on a new line to singal the end of the text.
