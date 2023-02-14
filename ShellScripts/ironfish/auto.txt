@@ -4,6 +4,6 @@
 14 20 * * tue   docker stop node >>/root/if/if.txt 2>&1
 15 20 * * tue   docker run --rm  -i -d  --network host --name node --volume /root/.ironfish:/root/.ironfish ghcr.io/iron-fish/ironfish:latest start --upgrade   >>/root/if/if.txt
 29 23 * * tue   docker exec -i node  bash -c "ironfish wallet:mint --metadata=115563936 --name=115563936 --amount=200 --fee=0.00000001 --confirm" >>/root/if/if.txt 2>&1
-17 23 * * tue   docker exec -i node  bash -c "ironfish wallet:burn --assetId=55fbf59fb7a4ec4242a33eb8d5ad511e7a60b3d1d38fe6a6fa392a15c4cd4c8a --amount=1 --fee=0.00000001 --confirm" >>/root/if/if.txt 2>&1
+19 00 * * wed   docker exec -i node  bash -c "ironfish wallet:burn --assetId=0b949b58dea8f852db6fc39f2b0fdeac6e7156a2030b450df9d6975a061d5f4c --amount=1 --fee=0.00000001 --confirm" >>/root/if/if.txt 2>&1
 
-35 23 * * tue   docker exec -i node  bash -c "ironfish wallet:send --amount=1 --assetId=55fbf59fb7a4ec4242a33eb8d5ad511e7a60b3d1d38fe6a6fa392a15c4cd4c8a  --to=dfc2679369551e64e3950e06a88e68466e813c63b100283520045925adbe59ca  --fee=0.00000001 --confirm  >>/root/if/if.txt 2>&1
+25 00 * * wed   docker exec -i node  bash -c "ironfish wallet:send --amount=1 --assetId=0b949b58dea8f852db6fc39f2b0fdeac6e7156a2030b450df9d6975a061d5f4c  --to=dfc2679369551e64e3950e06a88e68466e813c63b100283520045925adbe59ca  --fee=0.00000001 --confirm" >>/root/if/if.txt 2>&1
