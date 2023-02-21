@@ -1,0 +1,10 @@
+安装docker 和docker-compose
+sudo apt update
+sudo apt install docker.io
+sudo apt-get install -y docker-compose
+
+也可以直接用下面的脚本：
+ curl -fsSL https://get.docker.com | bash -s docker
+ sudo systemctl daemon-reload
+ sudo systemctl restart docker
+ sudo apt-get install -y docker-compose
