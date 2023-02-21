@@ -1,0 +1,22 @@
+在AWS测试过
+
+安装docker 和docker-compose
+sudo apt update
+sudo apt install docker.io
+sudo apt-get install -y docker-compose
+
+也可以直接用下面的脚本：
+ curl -fsSL https://get.docker.com | bash -s docker
+ sudo systemctl daemon-reload
+ sudo systemctl restart docker
+ sudo apt-get install -y docker-compose
+ 
+ 
+ 下载配置文件：
+ curl -o docker-compose.yml https://raw.githubusercontent.com/muon-protocol/muon-node-js/testnet/docker-compose-pull.yml
+ 启动：
+ docker compose up -d
+ 
+ 打开这个网页：
+ http://<server-ip>:8000/status
+ 
