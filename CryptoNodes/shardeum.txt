@@ -1,0 +1,32 @@
+——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+如果没有安装docker 就安装docker 和docker-compose
+sudo apt update 
+sudo apt install docker.io
+sudo apt-get install -y docker-compose
+
+也可以直接用下面的脚本安装：
+ curl -fsSL https://get.docker.com | bash -s docker
+ sudo systemctl daemon-reload
+ sudo systemctl restart docker
+ sudo apt-get install -y docker-compose
+
+——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+正式步骤：
+curl -o docker-compose.yml https://raw.githubusercontent.com/muon-protocol/muon-node-js/testnet/docker-compose-pull.yml
+
+如果报错说docker没有启动， 执行sudo service docker start 
+
+cd /root/.shardeum
+./shell.sh
+operator-cli gui start
+
+
+获取公网IP
+curl https://ipinfo.io/ip
+export APP_IP="EXTERNAL_IP"
+
+Update
+cd /root/.shardeum
+./update.sh
+
+rm -rf .shardeum
