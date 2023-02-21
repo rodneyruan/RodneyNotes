@@ -1,0 +1,3 @@
+sudo apt install -y netcat
+nc -l 8081
+Then check it on https://portchecker.co/checking
