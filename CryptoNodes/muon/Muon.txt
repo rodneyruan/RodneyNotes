@@ -20,3 +20,6 @@ sudo apt-get install -y docker-compose
  打开这个网页：
  http://<server-ip>:8000/status
  
+http://172.245.86.246:8000/status
+
+ 
