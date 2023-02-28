@@ -22,4 +22,6 @@ sudo apt-get install -y docker-compose
  
 http://172.245.86.246:8000/status
 
- 
+ backup and restore
+docker exec -it muon-node ./node_modules/.bin/ts-node ./src/cmd keys backup > backup.json
+docker exec -it muon-node ./node_modules/.bin/ts-node ./src/cmd keys restore "$(cat backup.json)"
