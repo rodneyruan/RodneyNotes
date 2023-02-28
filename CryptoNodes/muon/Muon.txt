@@ -2,11 +2,7 @@
 https://docs.muon.net/muon-network/muon-nodes/joining-the-testnet-alice/faq-for-alice
 
 安装docker 和docker-compose
-sudo apt update
-sudo apt install docker.io
-sudo apt-get install -y docker-compose
 
-也可以直接用下面的脚本：
  curl -fsSL https://get.docker.com | bash -s docker
  sudo systemctl daemon-reload
  sudo systemctl restart docker
@@ -19,17 +15,16 @@ sudo apt-get install -y docker-compose
  docker compose up -d
  
  打开这个网页：
- http://<server-ip>:8000/status
- 
+http://<server-ip>:8000/status
 http://172.245.86.246:8000/status
-
 添加节点：
 https://alice.muon.net/join/
+BSC测试链，连接家里电脑的小狐狸钱包。
 
  backup and restore
+＞＞＞＞＞＞＞注意，　每次重启都会生成新的节点， 所以　每次都需要restore 这个back.json文件
 docker exec -it muon-node ./node_modules/.bin/ts-node ./src/cmd keys backup > backup.json
 docker exec -it muon-node ./node_modules/.bin/ts-node ./src/cmd keys restore "$(cat backup.json)"
-
-每次重启都会生成新的节点， 需要restore 这个back.json文件
+需要把这个文件拷贝出来
 {"SIGN_WALLET_ADDRESS":"0x966352E05f24eBA606599BA2F26CA0B79bC43f67","SIGN_WALLET_PRIVATE_KEY":"50b191b23f60b331ae83e74677c777d7dfabaf4d88daa02ef7c9e19f31defeb8","PEER_ID":"QmQ6FKHA6czzfoJkj8XyWpuZ6dQFcug15YaLEjryxXMr3p","PEER_PUBLIC_KEY":"CAASogEwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAJS7GFMSvlcQHtj+SrgHBWuEjLmQa1v53o1ZQQqocd69ekGkV1VKIl2aRVApqBwqckJxG4e/iqQK48i33S/+AkPcuawAUO5BkUs2h+prLSpE0sh9LXYt3udy9sSMcJP4LvgpxWGNyFRjsLhR0I9n4LUhkfbAzpMpKrozkv848UhtAgMBAAE=","PEER_PRIVATE_KEY":"CAAS4QQwggJdAgEAAoGBAJS7GFMSvlcQHtj+SrgHBWuEjLmQa1v53o1ZQQqocd69ekGkV1VKIl2aRVApqBwqckJxG4e/iqQK48i33S/+AkPcuawAUO5BkUs2h+prLSpE0sh9LXYt3udy9sSMcJP4LvgpxWGNyFRjsLhR0I9n4LUhkfbAzpMpKrozkv848UhtAgMBAAECgYEAisncdQj0nYHph0wkpX3HzQEv4KmnxXhx+SzkyPFO8S+XOlIFPQ2k6/vd2mRE/6OMY/vwWMigs1uGG/OXcAV0TjsqRAzjSvVuVODcyqrZ/W9rcNidW2KVoC93aGOiNICvhZz4wbV8NaumQGnDImk0tAtoQ7Pu4nayO7D1/ONacIECQQDDN0m4gic5c1/o8Bvrtz/1/VaVw69QlDCbJN1hB8oD1LRqJeQBte7uuszcNO+GK6BkHGt0Fo/atAsWujHPkzNJAkEAwwp3WRtqatFWwM1KBTWd6mYyPier1vmgvH7NhYxrcFvppYrmlwxFgoHEE8p9jg7GE3SToyygExYT2S1V3r8IBQJAIOipHNmUEzNH79TKYCo8NhPHDOg4HbVdnEnSqBDQFWU+JMbOcRtidAw5jMW/uzaPi1DfLGrBRXUkiWhKDVwbQQJBAJNb1f4563YXAc+biwBSmSQe4Hj7aiZ65glkWI09IXN7zhSn1D5tJBtNRcKaK7Bn0xmh62XOcobZGFfum8E2Xa0CQAJS5JMNal3HDBvRP5t4WKpG0LWARwj+3dZuqOytuu5gRQUakYdwdiZ7rNjRn0EIWrLZYNKXhruXK6y8+M6RSBE="}
 
