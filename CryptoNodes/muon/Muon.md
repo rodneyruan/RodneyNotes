@@ -1,5 +1,8 @@
 # MUON Testnet 
-
+### 奖励
+2月27号前，所有加入的节点，瓜分 20%的奖励
+2月27号后，至少跑60天，90%的uptime，80的奖励
+奖励的方式是 PION币
 ### 官方文档
 ```bash
 https://docs.muon.net/muon-network/muon-nodes/joining-the-testnet-alice/faq-for-alice
