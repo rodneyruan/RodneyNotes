@@ -15,5 +15,7 @@ sudo apt-get install -y docker-compose
  sudo systemctl restart docker
  sudo apt-get install -y docker-compose
  
- 
+ docker-compose --version
+
+
 
