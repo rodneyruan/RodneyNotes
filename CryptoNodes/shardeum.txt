@@ -12,10 +12,14 @@ sudo apt-get install -y docker-compose
 
 ——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
 正式步骤：
-curl -o docker-compose.yml https://raw.githubusercontent.com/muon-protocol/muon-node-js/testnet/docker-compose-pull.yml
+
+安装
+curl -O https://gitlab.com/shardeum/validator/dashboard/-/raw/main/installer.sh && chmod +x installer.sh && ./installer.sh
+https://172.245.86.246:8080/maintenance
 
 如果报错说docker没有启动， 执行sudo service docker start 
 
+可选的：
 cd /root/.shardeum
 ./shell.sh
 operator-cli gui start
@@ -29,4 +33,5 @@ Update
 cd /root/.shardeum
 ./update.sh
 
+删除节点
 rm -rf .shardeum
