@@ -1,0 +1,51 @@
+删除旧版本：
+sudo apt-get remove docker docker-engine docker.io containerd runc
+删除旧image
+sudo rm -rf /var/lib/docker
+sudo rm -rf /var/lib/containerd
+
+安装docker 和docker-compose
+sudo apt update
+sudo apt install docker.io
+sudo apt-get install -y docker-compose
+
+也可以直接用下面的脚本：
+ curl -fsSL https://get.docker.com | bash -s docker
+ sudo systemctl daemon-reload
+ sudo systemctl restart docker
+ sudo apt-get install -y docker-compose
+ 
+ docker-compose --version
+
+
+"https://www.runoob.com/docker/docker-compose.html
+ docker pull ubuntu
+ docker run -it ubuntu /bin/bash
+ docker run -itd --name ubuntu ubuntu
+  -i interactive 
+  -t terminal
+  -d deamon
+  
+ docker ps
+ docker images
+ docker attach ununtu
+ Ctrl + PQ
+ docker start/stop
+
+创建
+docker run -it -d --name 要取的别名 -p 宿主机端口:容器端口 -v 宿主机文件存储位置:容器内文件位置 镜像名:Tag /bin/bash 
+
+列出容器列表
+sudo docker ps
+
+停止
+ docker stop 容器名/容器ID
+删除 docker rm 
+
+进入
+sudo docker attach 容器ID/容器名
+docker exec -it 容器ID /bin/bash 
+docker exec -it 容器Name bash
+
+退出 
+Contrl +PQ"
