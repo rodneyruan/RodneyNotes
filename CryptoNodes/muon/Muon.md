@@ -52,4 +52,10 @@ docker exec -it muon-node ./node_modules/.bin/ts-node ./src/cmd keys restore "$(
 ```
 https://alice.muon.net/join/
 选择BSC测试链，并连接小狐狸钱包
+
+### 删除节点
+···
+docker stop muon-node redis mongo 
+docker rm muon-node redis mongo 
+docker image prune
 ```
