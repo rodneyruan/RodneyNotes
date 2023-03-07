@@ -28,10 +28,16 @@ operator-cli gui start
 获取公网IP
 curl https://ipinfo.io/ip
 export APP_IP="EXTERNAL_IP"
+export APP_IP=172.245.86.246
 
 Update
 cd /root/.shardeum
 ./update.sh
 
+ ./shell.sh  
+ operator-cli status
+ operator-cli stop
+ operator-cli start
+ operator-cli stake_info 0x9007dd9262CaF8DD5a352c80c59FEd5854B854A9
 删除节点
 rm -rf .shardeum
