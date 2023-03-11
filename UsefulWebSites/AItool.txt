@@ -15,6 +15,7 @@ tome.app
 . 把文字变成人的声音
 murf.ai
 
+https://beta.elevenlabs.io/
 7. 想法在几秒钟内变成幻灯片
 powermodeai.com
 
