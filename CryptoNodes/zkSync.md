@@ -7,4 +7,5 @@ https://www.orbiter.finance/?source=Ethereum&dest=ZKSync
 
 ### 生态系统
 https://ecosystem.zksync.io/  
-https://trade.zigzag.exchange   
+https://trade.zigzag.exchange   主要在这个交易所上进行Lite的交互， 其他的都是测试网  
+
