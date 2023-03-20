@@ -6,8 +6,8 @@ Orbiter: https://www.orbiter.finance/history
 
 ### 主网交互
 https://10kswap.com/  
-ETH 换成USDC USDT，然后 pool里添加一点流动性  
-推荐使用这个， 这个gas低一点   
+ETH 换成USDC 或USDT，然后 pool里添加一点流动性  
+   
 https://app.jediswap.xyz/#/swap  
 
 ### 测试网交互 
