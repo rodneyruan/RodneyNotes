@@ -8,12 +8,15 @@ Deposited more than $50,000 of liquidity into Arbitrum 资金超过50K
  
 
 ### bridge 跨链转移资金用的桥， 推荐用orbiter 现在转的好像都是Lite的， Era 的暂时转不过来
-https://portal.zksync.io/  <------只给开发人员， 暂时还没开通  
-https://lite.zksync.io/    <------ 交互主要在这上面  
-https://trade.zigzag.exchange/bridge  
+currently, only whitelist addresses are allowed to deposit on mainnet 现阶段，只有白名单的地址才能用主网，其他地址只能用Lite版的主网
+https://lite.zksync.io/    <------ 非白名单只能用这个
+https://portal.zksync.io/  <------只给白名单地址， 暂时还用不了  
+https://trade.zigzag.exchange
 https://www.orbiter.finance/?source=Ethereum&dest=ZKSync  
 
 ### 生态系统
 https://ecosystem.zksync.io/  
 https://trade.zigzag.exchange   主要在这个交易所上进行Lite的交互， 其他的都是测试网  
+
+https://syncswap.xyz/ 测试网的交易所
 
