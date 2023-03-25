@@ -16,11 +16,11 @@ Era 主网 https://portal.zksync.io
 https://portal.zksync.io   
 
 第三方跨链桥， orbiter
-https://www.orbiter.finance/?source=Ethereum&dest=ZKSync 
+https://www.orbiter.finance/?source=Ethereum&dest=ZKSync   
 
-rhino也可以实现跨链的功能，先在主网存，然后提取到zkSync，现在是0手续费 但是速度很慢，不推荐
+rhino也可以实现跨链的功能，先在主网存，然后提取到zkSync，现在是0手续费 但是速度很慢，不推荐  
 https://app.rhino.fi/
-···
+
 
 ### Lite 主网交互
 ```
