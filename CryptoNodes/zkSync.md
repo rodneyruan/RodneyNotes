@@ -11,11 +11,11 @@ Lite 主网 https://lite.zksync.io/
 Era 主网 https://portal.zksync.io  
 
 ### bridge 跨链转移资金用的桥， 推荐用orbiter  
-···
-官网可以从以太坊主网跨链到 zkSync
+
+官网可以从以太坊主网跨链到 zkSync  
 https://portal.zksync.io   
 
-第三方跨链桥， orbiter
+第三方跨链桥， orbiter  
 https://www.orbiter.finance/?source=Ethereum&dest=ZKSync   
 
 rhino也可以实现跨链的功能，先在主网存，然后提取到zkSync，现在是0手续费 但是速度很慢，不推荐  
