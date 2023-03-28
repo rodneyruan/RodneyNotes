@@ -33,8 +33,9 @@ export APP_IP=172.245.86.246
 Update
 cd /root/.shardeum
 ./update.sh
-
+然后执行
  ./shell.sh  
+  operator-cli gui status
  operator-cli status
  operator-cli stop
  operator-cli start
