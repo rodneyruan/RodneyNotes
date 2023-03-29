@@ -46,6 +46,18 @@ cat backup.json
 ### 还原 restore
 ```
 docker exec -it muon-node ./node_modules/.bin/ts-node ./src/cmd keys restore "$(cat backup.json)"
+```
+
+### 更新节点
+```
+docker cp muon-node:/usr/src/muon-node-js/.env ./backup.env
+docker-compose down --rmi all
+docker-compose pull
+docker-compose up -d
+
+docker cp backup.env muon-node:/usr/src/muon-node-js/backup.env
+docker exec -it muon-node ./node_modules/.bin/ts-node ./src/cmd keys restore backup.env
+docker restart muon-node
 
 ```
 ### 查看每天的收益：
