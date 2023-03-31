@@ -1,6 +1,9 @@
-ssh-keygen -t ed25519 -C "your_email@example.com"
-
+ssh-keygen -t ed25519 -C "rodneyruan@gmail.com"
+cat ~/.ssh/id_ed25519.pub   添加到服务器上
 # start the ssh-agent in the background
-$ eval "$(ssh-agent -s)"
-
+$ eval "$(ssh-agent -s)"                  每次都要执行
 ssh-add ~/.ssh/id_ed25519
+
+ git clone git@github.com:rodneyruan/RodneyNotes.git
+ git commit -a
+ git push
