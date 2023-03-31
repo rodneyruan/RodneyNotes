@@ -24,22 +24,19 @@ meson.fi 免费的
 https://app.multichain.org/#/router
 
 ### Lite 主网交互
-```
-唯一上线Lite 主网的交易所：
+
 https://trade.zigzag.exchange  
 
-```
-```
- Mint NFT
- 打开 https://lite.zksync.io/
- 需要输入一个图片文件的CID，
- 打开 https://nft.storage
- 用邮箱注册，然后上传图片就可以
- 也可以直接使用我上传的以下图片的CID 
- bafybeiena4zhfloo2wwwjhqesvt7idbno4ydu45jxdlwoe54pwviljzmdq 
+ Mint NFT   
+ 打开 https://lite.zksync.io/   
+ 需要输入一个图片文件的CID，  
+ 打开 https://nft.storage  
+ 用邮箱注册，然后上传图片就可以  
+ 也可以直接使用我上传的以下图片的CID   
+ bafybeiena4zhfloo2wwwjhqesvt7idbno4ydu45jxdlwoe54pwviljzmdq   
  bafybeicb33hj76tz7sjrmkec5zqotylyhtqfuiwdtldbm66rmhbpgglxz4
  bafkreicaxqscgbenszi3oir3wvotr5bbyxe35lj2fvxzprmhosodbnkz4m
-```
+
 
 ### Era 主网交互
 
@@ -52,6 +49,11 @@ https://app.mute.io/
 
 https://swap-zksync.spacefi.io  
 
+合约交互
+```
+https://leverage.unidex.exchange/   
+No.8, 买比特币，2倍杠杆 
+```
 
 
 ### 生态系统
