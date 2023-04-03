@@ -73,7 +73,7 @@ docker restart muon-node
 ### 查看每天的收益：
 ```
 https://alice.muon.net/join/
-选择BSC测试链，并连接小狐狸钱包
+点击右上角的SWITCH NETWORK，切换到BSC测试链，并连接小狐狸钱包
 ```
 ### 删除节点
 ```
