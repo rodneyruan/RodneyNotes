@@ -10,13 +10,15 @@ Deposited more than $50,000 of liquidity into Arbitrum 存入资金超过50K
 Lite 主网 https://lite.zksync.io/  
 Era 主网 https://portal.zksync.io  
 
-### bridge 跨链转移资金用的桥， 推荐用orbiter  
+### bridge 跨链桥
 
-官网可以从以太坊主网跨链到 zkSync  
+官网跨链,只支持以太坊主网到zkSync
 https://portal.zksync.io   
 
-第三方跨链桥， orbiter  
+第三方跨链桥
 https://www.orbiter.finance/?source=Ethereum&dest=ZKSync   
+https://www.layerswap.io/
+
 
 rhino也可以实现跨链的功能，先在主网存，然后提取到zkSync，现在是0手续费 但是速度很慢，不推荐  
 https://app.rhino.fi/
@@ -25,9 +27,10 @@ https://app.multichain.org/#/router
 
 ### Lite 主网交互
 
+1.交易
 https://trade.zigzag.exchange  
 
- Mint NFT   
+2. Mint NFT   
  打开 https://lite.zksync.io/   
  需要输入一个图片文件的CID，  
  打开 https://nft.storage  
@@ -40,16 +43,21 @@ https://trade.zigzag.exchange
 
 ### Era 主网交互
 
-推荐使用这个交易所 syncswap   
+重点做syncswap   
 做几次swap，然后到pool添加流动性   
 https://syncswap.xyz/  
 
-这两个也可以  
+做完交互4月20号前领取一个OAT
+https://galxe.com/SyncSwap/campaign/GCd81U1awt
+
+_____________________________________________________________________________________________
+其他的交互平台  
 https://app.mute.io/  
 
 https://swap-zksync.spacefi.io  
 
-合约交互
+
+### 合约交互
 ```
 https://leverage.unidex.exchange/   
 No.8, 买比特币，2倍杠杆 
