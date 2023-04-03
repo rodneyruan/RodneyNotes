@@ -45,6 +45,14 @@ cat backup.json
 ```
 ### 还原 restore
 ```
+创建一个名为 backup.json的文件， 然后输入你之前保存的内容：
+执行命令 cat > backup.json 
+粘贴保存的信息
+敲回车
+在键盘上按Ctrl+D 保存退出
+
+执行这个命令查看内容 cat  backup.json 
+
 docker exec -it muon-node ./node_modules/.bin/ts-node ./src/cmd keys restore "$(cat backup.json)"
 docker restart muon-node
 
