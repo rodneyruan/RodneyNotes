@@ -46,6 +46,8 @@ cat backup.json
 ### 还原 restore
 ```
 docker exec -it muon-node ./node_modules/.bin/ts-node ./src/cmd keys restore "$(cat backup.json)"
+docker restart muon-node
+
 ```
 
 ### 更新节点
