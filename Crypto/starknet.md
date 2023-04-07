@@ -9,6 +9,12 @@ https://10kswap.com/
 ETH 换成USDC 或USDT，然后 pool里添加一点流动性  
    https://www.myswap.xyz/#/  
 https://app.jediswap.xyz/#/swap  
+https://app.starknet.id/braavosDiscount   花$1 注册域名
+也可以在钱包里直接注册域名 rodney.stark
+Register braavos.stark domain and create it by clicking “Register.”
+rodney.braavos.stark
+
+
 
 ### 测试网交互 
 https://testnet.artemis.zklend.com/markets  
