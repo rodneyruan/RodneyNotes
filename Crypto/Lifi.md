@@ -1,9 +1,12 @@
 LIFI是一个跨链协议，已经融资2300万美金
 
 1.  打开网站交互， https://jumper.exchange (by LIFI)
-2.  GW任务https://www.mygateway.xyz/credential/5d604cb1-dc96-48fa-8482-877c043458cc
+2.  GW任务https://www.mygateway.xyz/credential/5d604cb1-dc96-48fa-8482-877c043458cc 
+
+
 答案
-code: 973946361946402
+ze code: 973946361946402
+选择题的答案
 1.  True
 
 2.  96.06%
