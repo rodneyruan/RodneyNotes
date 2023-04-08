@@ -9,7 +9,7 @@ https://10kswap.com/
 https://www.myswap.xyz/#/  
 https://app.jediswap.xyz/#/swap
 
-### 注册域名得NFT
+### 注册域名得NFT   原价$10，现在只要$1
 ```
 https://app.starknet.id/braavosDiscount  
 花$1 注册一级域名  rodney.stark
