@@ -44,6 +44,7 @@ https://syncswap.xyz/
 做完交互4月20号前领取一个OAT  
 https://galxe.com/SyncSwap/campaign/GCd81U1awt
 
+https://onchain.trade/
 _____________________________________________________________________________________________
 其他的交互平台  
 https://app.mute.io/  
