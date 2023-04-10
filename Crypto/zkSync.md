@@ -4,19 +4,15 @@ Era 主网 https://portal.zksync.io
 
 ### bridge 跨链桥
 
-官网跨链,只支持以太坊主网到zkSync
-https://portal.zksync.io   
+官网跨链:
+> https://portal.zksync.io   
 
-第三方跨链桥
-https://www.orbiter.finance/?source=Ethereum&dest=ZKSync   
-https://www.layerswap.io/   <--------------------------------这个跨链手续费最低，推荐使用
-
-
-rhino也可以实现跨链的功能，先在主网存，然后提取到zkSync，现在是0手续费 但是速度很慢，不推荐  
-https://app.rhino.fi/
-
-meson.fi 免费的跨链，但是不知道安不安全
-https://app.multichain.org/#/router
+第三方跨链桥  
+> https://www.orbiter.finance  
+> https://www.layerswap.io  
+> https://app.rhino.fi/  
+> https://meson.fi  
+> https://app.multichain.org
 
 ### Lite 主网交互
 
