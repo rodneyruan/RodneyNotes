@@ -15,9 +15,9 @@ https://dune.com/queries/2284211/3743283
 https://testnetbridge.com/
 
 ```
-跨链钱包，基于layer0的  
-3月份之前钱包上有STG的，可以领取REUNI 币
-查了，五月份的时候可以领取10个币，现在每个币大约是$3  
+跨链钱包Reunit，基于layer0的  
+3月份之前钱包上有STG的，五月的时候可以领取REUNI 币
+我的地址五月份的时候可以领取10个币，现在每个币大约是$3  
 https://web.everywhere.finance/#SALE_SECTION  
 领取后交易:  
 https://app.1inch.io/#/42161/simple/swap/ETH/0x9ed7E4B1BFF939ad473dA5E7a218C771D1569456  
