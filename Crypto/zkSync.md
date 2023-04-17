@@ -54,6 +54,8 @@ https://leverage.unidex.exchange/
 No.8, 13 买比特币，2倍杠杆 
 ```
 
+### NFT
+omnisea.org/9168079769462
 
 ### 生态系统
 https://ecosystem.zksync.io/  
