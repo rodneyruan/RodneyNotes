@@ -47,6 +47,9 @@ https://app.mute.io/
 
 https://swap-zksync.spacefi.io  
 
+### 小牛的活动
+
+https://galxe.com/maverick-protocol/campaign/GCaWYU6kad
 
 ### 合约交互
 ```
