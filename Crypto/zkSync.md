@@ -53,6 +53,8 @@ https://swap-zksync.spacefi.io
 https://leverage.unidex.exchange/   
 No.8, 13 买比特币，2倍杠杆 
 ```
+### 免费域名 
+https://zks.network/
 
 ### NFT
 omnisea.org/9168079769462
