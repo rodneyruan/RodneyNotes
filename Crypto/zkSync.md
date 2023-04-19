@@ -56,11 +56,12 @@ https://galxe.com/maverick-protocol/campaign/GCaWYU6kad
 https://leverage.unidex.exchange/   
 No.8, 13 买比特币，2倍杠杆 
 ```
-### 免费域名 
-https://zks.network/
+### 域名 
+https://zks.network/ 免费  
 20,2,3,4
-13
+13 22
 
+https://app.zkns.domains/  收费  
 ### NFT
 omnisea.org/9168079769462
 
