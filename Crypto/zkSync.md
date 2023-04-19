@@ -48,7 +48,8 @@ https://app.mute.io/
 https://swap-zksync.spacefi.io  
 
 ### 小牛的活动
-
+2023/04/18 03:05 - 2023/05/18 03:00 GMT+08:00
+小牛是一个DEFI交易所，参加活动 可以得到一个专属的小牛NFT 要验证邮箱，还有电报
 https://galxe.com/maverick-protocol/campaign/GCaWYU6kad
 
 ### 合约交互
