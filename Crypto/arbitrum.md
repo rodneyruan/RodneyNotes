@@ -26,3 +26,5 @@ WL price : 1 $GRV = $0.015
 Public price : 1 $GRV = $0.02 
 Listing Price : 1 $GRV = $0.03
 ```
+
+空投得到的aidoge， 在uniswap添加流动性
