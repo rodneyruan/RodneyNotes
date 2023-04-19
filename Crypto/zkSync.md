@@ -31,14 +31,16 @@ Era 主网 https://portal.zksync.io
  打开 https://nft.storage  
  用邮箱注册，然后上传图片就可以  
 
-### Era 主网交互
-
-重点做syncswap   
-做几次swap，然后到pool添加流动性   
+### syncswap on era 主网交互
+```
 https://syncswap.xyz/  
 
+4月20号前搞活动，1号2号都得到了Role和 OAT NFT
+https://guild.xyz/syncswap
 做完交互4月20号前领取一个OAT  
 https://galxe.com/SyncSwap/campaign/GCd81U1awt
+```
+
 
 https://onchain.trade/
 _____________________________________________________________________________________________
