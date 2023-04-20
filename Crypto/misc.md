@@ -14,3 +14,11 @@ WL price : 1 $GRV = $0.015
 Public price : 1 $GRV = $0.02 
 Listing Price : 1 $GRV = $0.03
 ```
+```
+KAVA, VARA
+Home1
+KAVA 原来是在aptos上， 用kplr钱包，后面支持evm，出现了kava evm
+地址，Kava链上的AMM， 存了20U，领了10个VARA空投	
+https://app.kava.io/evm/wkava	
+https://equilibrefinance.com/liquidity	
+```
