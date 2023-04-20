@@ -31,3 +31,10 @@ https://equilibrefinance.com/liquidity
 https://chainlist.org/chain/59140
 https://www.testnet.echodex.io/faucet
 ```
+
+
+### SEI
+https://testnet.sparrowswap.xyz/
+
+https://usdcfaucet.sparrowswapxyz.com/
+https://app.seinetwork.io/faucet/
