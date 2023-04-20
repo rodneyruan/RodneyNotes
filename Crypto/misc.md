@@ -22,3 +22,12 @@ KAVA 原来是在aptos上， 用kplr钱包，后面支持evm，出现了kava evm
 https://app.kava.io/evm/wkava	
 https://equilibrefinance.com/liquidity	
 ```
+```
+𝗘𝗰𝗵𝗼𝗗𝗘𝗫
+
+@Echo_DEX
+ is the first DEX on Linea #Consensy zkEVM testnet.
+ 
+https://chainlist.org/chain/59140
+https://www.testnet.echodex.io/faucet
+```
