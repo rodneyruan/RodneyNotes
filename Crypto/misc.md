@@ -36,5 +36,8 @@ https://www.testnet.echodex.io/faucet
 ### SEI
 https://testnet.sparrowswap.xyz/
 
-https://usdcfaucet.sparrowswapxyz.com/
-https://app.seinetwork.io/faucet/
+https://usdcfaucet.sparrowswapxyz.com/  
+https://app.seinetwork.io/faucet/  
+
+task
+https://edge.blocked.cc/products/1
