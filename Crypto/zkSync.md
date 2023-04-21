@@ -61,8 +61,8 @@ No.8, 13 买比特币，2倍杠杆
 ```
 ### 域名 
 https://zks.network/ 免费  
-20,2,3,4
-13 22
+,2,3,4
+12，13， 19， 20 22
 
 https://app.zkns.domains/  收费  
 ### NFT
