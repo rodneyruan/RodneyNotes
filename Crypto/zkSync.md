@@ -72,3 +72,6 @@ omnisea.org/9168079769462
 https://ecosystem.zksync.io/  
 https://mintsquare.io/mint  
 
+
+### 奥德赛
+https://galxe.com/Rubic/campaign/GCKwDU6BWu
