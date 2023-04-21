@@ -35,7 +35,7 @@ https://www.testnet.echodex.io/faucet
 
 ### SEI
 https://testnet.sparrowswap.xyz/
-
+https://www.seinetwork.io/treasure
 https://usdcfaucet.sparrowswapxyz.com/  
 https://app.seinetwork.io/faucet/  
 
