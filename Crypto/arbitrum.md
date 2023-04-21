@@ -26,5 +26,8 @@ WL price : 1 $GRV = $0.015
 Public price : 1 $GRV = $0.02 
 Listing Price : 1 $GRV = $0.03
 ```
-
+### aidoge
 空投得到的aidoge， 在uniswap添加流动性
+
+### kepler，得到5个盒子，还没开
+https://arb-claim.kepler.homes/
