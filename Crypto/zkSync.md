@@ -69,10 +69,35 @@ https://app.zkns.domains/  收费
 omnisea.org/9168079769462
 
 ### 生态系统
-https://ecosystem.zksync.io/  
-https://mintsquare.io/mint  
+https://ecosystem.zksync.io/    
+https://mintsquare.io/mint   
 
 
 ### 奥德赛
-https://galxe.com/Rubic/campaign/GCKwDU6BWu
+```
+https://galxe.com/Rubic/campaign/GCKwDU6BWu  
+
+iZUMi Finance, 需要连续做四周，他们承诺拿出150万个自己的iz代币，以及从zkSync得到的空投的50%作为奖励
 https://galxe.com/izumi/campaign/GCiLQU6RLe
+```
+```
+Celer
+https://galxe.com/Celer/campaign/GCvXqU6mkY
+需要做一笔跨链，2023/04/20 22:30 - 2023/04/23 22:30 GMT+08:00
+https://cbridge.celer.network/56/324/WETH
+```
+```
+zkcross dc 推特就可以
+2023/04/20 00:00 - 2023/05/20 00:00 GMT+08:00
+https://galxe.com/zkcross/campaign/GC7nMU6bhN
+```
+
+```
+Rubic 
+做一次跨链转资金到zksync
+https://app.rubic.exchange/?fromChain=BSC&toChain=ETH&from=USDT&to=USDC&amount=9.971588
+```
+```
+spcefi 要求添加10K的流动性， 直接放弃
+https://galxe.com/spacefi/campaign/GC5PMU6HPB
+```
