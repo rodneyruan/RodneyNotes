@@ -79,6 +79,7 @@ https://galxe.com/Rubic/campaign/GCKwDU6BWu
 
 iZUMi Finance, 需要连续做四周，他们承诺拿出150万个自己的iz代币，以及从zkSync得到的空投的50%作为奖励
 https://galxe.com/izumi/campaign/GCiLQU6RLe
+https://zksync.izumi.finance/swap
 ```
 ```
 Celer
