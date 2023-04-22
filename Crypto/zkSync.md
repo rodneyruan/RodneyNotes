@@ -102,3 +102,16 @@ https://app.rubic.exchange/?fromChain=BSC&toChain=ETH&from=USDT&to=USDC&amount=9
 spcefi 要求添加10K的流动性， 直接放弃
 https://galxe.com/spacefi/campaign/GC5PMU6HPB
 ```
+```
+https://galxe.com/Tevaera/campaign/GCRFcU6Zic
+这比较容易
+
+```
+zkpass
+https://galxe.com/zkPass/campaign/GCF2LU6n9d
+答案
+zkSync Era is a Layer-2 protocol that scales Ethereum with cutting-edge ZK tech. 
+
+ABCD， ABC， ABCD
+MPC and ZKP
+
