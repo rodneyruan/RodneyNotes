@@ -75,3 +75,4 @@ https://mintsquare.io/mint
 
 ### 奥德赛
 https://galxe.com/Rubic/campaign/GCKwDU6BWu
+https://galxe.com/izumi/campaign/GCiLQU6RLe
