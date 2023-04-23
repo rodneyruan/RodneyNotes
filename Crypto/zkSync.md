@@ -100,7 +100,11 @@ Rubic 这是一个跨链的聚合器
 做一次跨链转资金到zksync 可以得到100 RBC， 达到300个RBC可以提取
 现在跨链最优惠
 https://app.rubic.exchange 
+
 1 done
+
+只要打开他们的文档，就有一个NFT：
+https://galxe.com/Rubic/campaign/GCqpqU6CmF
 ```
 spcefi 要求添加10K的流动性， 直接放弃
 https://galxe.com/spacefi/campaign/GC5PMU6HPB
