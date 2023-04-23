@@ -78,6 +78,11 @@ https://mintsquare.io/mint
 ### 奥德赛
 ```
 https://galxe.com/Rubic/campaign/GCKwDU6BWu  
+2023/04/20 00:00 - 2023/04/29 00:00 
+2023/04/27 00:00 - 2023/05/10 00:00 GMT+08:00
+2023/05/04 00:00 - 2023/05/15 00:00 GMT+08:00
+2023/05/11 00:00 - 2023/05/21 00:00 GMT+08:00
+
 
 iZUMi Finance, 需要连续做四周，他们承诺拿出150万个自己的iz代币，以及从zkSync得到的空投的50%作为奖励
 https://galxe.com/izumi/campaign/GCiLQU6RLe
