@@ -98,13 +98,18 @@ https://galxe.com/zkcross/campaign/GC7nMU6bhN
 
 ```
 Rubic 这是一个跨链的聚合器
+
+1. https://galxe.com/Rubic/campaign/GCqpqU6CmF  
+   只要打开并阅读他们的文档可以Mint一个NFT
+2.    https://galxe.com/Rubic/campaign/GCZB7U6pzA
+
 做一次跨链转资金到zksync 可以得到100 RBC， 达到300个RBC可以提取
 现在跨链最优惠
 https://app.rubic.exchange 
 
 evm2 跨链都还没到账
-只要打开他们的文档，就有一个NFT：
-https://galxe.com/Rubic/campaign/GCqpqU6CmF
+
+```
 ```
 spcefi 要求添加10K的流动性， 直接放弃
 https://galxe.com/spacefi/campaign/GC5PMU6HPB
@@ -112,7 +117,6 @@ https://galxe.com/spacefi/campaign/GC5PMU6HPB
 ```
 https://galxe.com/Tevaera/campaign/GCRFcU6Zic
 这比较容易
-
 ```
 zkpass
 https://galxe.com/zkPass/campaign/GCF2LU6n9d
