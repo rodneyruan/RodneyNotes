@@ -116,8 +116,11 @@ spcefi 要求添加10K的流动性， 直接放弃
 https://galxe.com/spacefi/campaign/GC5PMU6HPB
 ```
 ```
+Tevaera 游戏平台
 https://galxe.com/Tevaera/campaign/GCRFcU6Zic
-这比较容易
+抽奖，2000个winner，2万多人参与了
+2023/04/20 22:30 - 2023/04/25 05:00 GMT+08:00
+
 ```
 zkpass
 https://galxe.com/zkPass/campaign/GCF2LU6n9d
