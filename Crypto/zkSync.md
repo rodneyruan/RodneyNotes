@@ -82,6 +82,7 @@ https://galxe.com/Rubic/campaign/GCKwDU6BWu
 iZUMi Finance, 需要连续做四周，他们承诺拿出150万个自己的iz代币，以及从zkSync得到的空投的50%作为奖励
 https://galxe.com/izumi/campaign/GCiLQU6RLe
 https://zksync.izumi.finance/swap
+每周swap 50U，
 ```
 ```
 Celer
@@ -99,7 +100,7 @@ https://galxe.com/zkcross/campaign/GC7nMU6bhN
 
 ```
 Rubic 这是一个跨链的聚合器
-
+2023/04/20 22:00 - 2023/05/07 22:00 GMT+08:00
 1. https://galxe.com/Rubic/campaign/GCqpqU6CmF  
    只要打开并阅读他们的文档可以Mint一个NFT
 2.    https://galxe.com/Rubic/campaign/GCZB7U6pzA
