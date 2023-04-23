@@ -8,6 +8,8 @@ Era 主网 https://portal.zksync.io
 > https://portal.zksync.io   
 
 第三方跨链桥  
+> https://cbridge.celer.network/56/324/WETH 现在搞活动
+>  https://app.rubic.exchange  跨链聚合器，现在有gas返还
 > https://www.orbiter.finance  
 > https://www.layerswap.io  
 > https://app.rhino.fi/  
@@ -94,10 +96,11 @@ https://galxe.com/zkcross/campaign/GC7nMU6bhN
 ```
 
 ```
-Rubic 
-做一次跨链转资金到zksync
-https://app.rubic.exchange/?fromChain=BSC&toChain=ETH&from=USDT&to=USDC&amount=9.971588
-```
+Rubic 这是一个跨链的聚合器
+做一次跨链转资金到zksync 可以得到100 RBC， 达到300个RBC可以提取
+现在跨链最优惠
+https://app.rubic.exchange 
+1 done
 ```
 spcefi 要求添加10K的流动性， 直接放弃
 https://galxe.com/spacefi/campaign/GC5PMU6HPB
