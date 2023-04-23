@@ -88,6 +88,7 @@ Celer
 https://galxe.com/Celer/campaign/GCvXqU6mkY
 需要做一笔跨链，2023/04/20 22:30 - 2023/04/23 22:30 GMT+08:00
 https://cbridge.celer.network/56/324/WETH
+2号 转账还没到
 ```
 ```
 zkcross dc 推特就可以
@@ -101,8 +102,7 @@ Rubic 这是一个跨链的聚合器
 现在跨链最优惠
 https://app.rubic.exchange 
 
-1 done
-
+1 2 跨链都还没到账
 只要打开他们的文档，就有一个NFT：
 https://galxe.com/Rubic/campaign/GCqpqU6CmF
 ```
