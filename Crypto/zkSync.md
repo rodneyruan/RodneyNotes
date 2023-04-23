@@ -94,6 +94,7 @@ evm2 转账还没到
 zkcross dc 推特就可以
 2023/04/20 00:00 - 2023/05/20 00:00 GMT+08:00
 https://galxe.com/zkcross/campaign/GC7nMU6bhN
+试了两个账号， 加了DC， verify还是失败
 ```
 
 ```
