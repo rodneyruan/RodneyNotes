@@ -25,3 +25,4 @@ https://app.1inch.io/#/42161/simple/swap/ETH/0x9ed7E4B1BFF939ad473dA5E7a218C771D
 
 ### 跨链产生的空闲资金如何处理
 > Fantom 可以放到sushiswap，把ftm 换成USDC，然后添加pool 里获取收益， 2号就做了
+> 5号的时候，做到了全链，就是op arb， bsc， avax， fantom， 都有
