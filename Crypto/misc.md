@@ -7,6 +7,10 @@ https://medium.com/@plexus.app/plexus-galxe-passport-oat-giveaway-463224a7f91d
 这是arbitrum的 借贷平台 收益率挺高，   
 https://galxe.com/whiteholefinance/campaign/GCGS9UfcvD  
 得到一个白名单NFT，可以0.015 买， 马上就要IDO  
+
+IDO 一下子就没了，
+各提供了10U的流动性
+https://whitehole.finance/ido
 ```
 The $GRV IDO will take place on 📆April 26
 About IDO: 
