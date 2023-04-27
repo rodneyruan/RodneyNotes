@@ -24,5 +24,8 @@ https://app.1inch.io/#/42161/simple/swap/ETH/0x9ed7E4B1BFF939ad473dA5E7a218C771D
 ```
 
 ### 跨链产生的空闲资金如何处理
-> Fantom 可以放到sushiswap，把ftm 换成USDC，然后添加pool 里获取收益， 2号就做了
+> AVAX FTM  都1一比一换成 AVAX/USDC FTM/USDC， 存到sushiswap的 pool里，#1  #2
+> OP  存入 https://app.velodrome.finance/liquidity #
+> 
 > 5号的时候，做到了全链，就是op arb， bsc， avax， fantom， 都有
+> 不能全部投入，一定要留一点钱做gas
