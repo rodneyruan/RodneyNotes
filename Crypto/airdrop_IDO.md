@@ -1,6 +1,6 @@
 ### Plexus
-现在swap一次只有6points，0.06U， 还不值手续费，不建议做，但是这个crew3可以做
-https://medium.com/@plexus.app/plexus-galxe-passport-oat-giveaway-463224a7f91d
+* 现在swap一次只有6points，0.06U， 还不值手续费，不建议做，但是这个crew3可以做
+* https://medium.com/@plexus.app/plexus-galxe-passport-oat-giveaway-463224a7f91d
 
 
 ### whitehole finance
@@ -68,12 +68,16 @@ https://edge.blocked.cc/products/1
 
 
 ### Kepler
-kepler，得到5个盒子，还没开
+```bash
+kepler，得到5个mystery box，还没开
 https://arb-claim.kepler.homes/
+```
 
 ### AIDOGE 
+```bash
 aidoge 已经登陆OKX交易所
 空投得到的aidoge， 在uniswap添加流动性
-
-### 
+```
+### karate-combat
+钱包需要500U以上才能保证参加IDO， 等5月2号以后
 https://daomaker.com/company-sale-rounds/karate-combat/public/Dn3tR6bwvw
