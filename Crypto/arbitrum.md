@@ -23,7 +23,7 @@ https://portal.arbitrum.one/
 The $GRV IDO will take place on 📆April 26
 About IDO: 
 WL price : 1 $GRV = $0.015 
-Public price : 1 $GRV = $0.02 
+Public price : 1 $GRV = $0.02  买了50U
 Listing Price : 1 $GRV = $0.03
 ```
 ### aidoge
