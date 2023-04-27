@@ -79,5 +79,13 @@ aidoge 已经登陆OKX交易所
 空投得到的aidoge， 在uniswap添加流动性
 ```
 ### karate-combat
+```
 钱包需要500U以上才能保证参加IDO， 等5月2号以后
 https://daomaker.com/company-sale-rounds/karate-combat/public/Dn3tR6bwvw
+```
+### Venom毒液
+https://venom.network/
+
+### Base上的域名
+测试网，不会移植到主网， 但是可以加入白名单
+https://app.basecamp.global/
