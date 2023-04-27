@@ -87,5 +87,32 @@ https://daomaker.com/company-sale-rounds/karate-combat/public/Dn3tR6bwvw
 https://venom.network/
 
 ### Base上的域名
+
+```
 测试网，不会移植到主网， 但是可以加入白名单
+#coinbase 旗下base测试网的ens域名，mint后可以保证后期的主网的白名单，
+1.rpc：https://chainlist.org/chain/84531
+2.领水：https://faucet.quicknode.com/base/goerli
+https://faucet.paradigm.xyz 
+3.测试网跨链桥：https://bridge.base.org/deposit
+4.mint ：https://app.basecamp.global
+
+
+分享两个亲测可用稳定领水的渠道：
+1、刚做Base测试网nft铸造的时候才发现
+@coinbase
+的coinbase wallet目前可以每天稳定领0.1gETH的
+（需要对应地址主网有0.001eth才可以）
+方法见图片
+2、http://goerli-faucet.pk910.de
+这个是pow领水，cpu挖水的机制，不过还挺快的
+分享两个亲测可用稳定领水的渠道：
+1、刚做Base测试网nft铸造的时候才发现
+@coinbase
+的coinbase wallet目前可以每天稳定领0.1gETH的
+（需要对应地址主网有0.001eth才可以）
+方法见图片
+2、http://goerli-faucet.pk910.de
+这个是pow领水，cpu挖水的机制，不过还挺快的
 https://app.basecamp.global/
+```
