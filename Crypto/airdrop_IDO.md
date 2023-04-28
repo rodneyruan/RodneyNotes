@@ -116,3 +116,12 @@ https://faucet.paradigm.xyz
 这个是pow领水，cpu挖水的机制，不过还挺快的
 https://app.basecamp.global/
 ```
+### zeta
+https://discord.gg/zetachain
+```
+2.找到zeta-faucet这个频道
+发送zeta faucet drip+钱包地址+zetachain领取测试币
+3.领取地址：
+https://asetpay.org/zetachain.html#
+连接钱包mint就好
+```
