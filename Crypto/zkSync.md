@@ -28,8 +28,7 @@ Era 主网 https://portal.zksync.io
  bafybeiena4zhfloo2wwwjhqesvt7idbno4ydu45jxdlwoe54pwviljzmdq    
  bafybeicb33hj76tz7sjrmkec5zqotylyhtqfuiwdtldbm66rmhbpgglxz4  
  bafkreicaxqscgbenszi3oir3wvotr5bbyxe35lj2fvxzprmhosodbnkz4m  
-     (2) 
- 也可以自己上传一个图片的IPFS系统上：  
+ (2)  也可以自己上传一个图片的IPFS系统上：  
  打开 https://nft.storage  
  用邮箱注册，然后上传图片就可以  
 
@@ -38,17 +37,14 @@ Era 主网 https://portal.zksync.io
 https://syncswap.xyz/  
 
 4月20号前搞活动，1号2号都得到了Role和 OAT NFT
-https://guild.xyz/syncswap
-做完交互4月20号前领取一个OAT  
+https://guild.xyz/syncswap 
 https://galxe.com/SyncSwap/campaign/GCd81U1awt
 ```
+```
 
-
-https://onchain.trade/
-_____________________________________________________________________________________________
 其他的交互平台  
 https://app.mute.io/  
-
+https://onchain.trade/
 https://swap-zksync.spacefi.io  
 
 ### 小牛的活动
@@ -68,11 +64,12 @@ https://zks.network/ 免费
 
 https://app.zkns.domains/  收费  
 ### NFT
+https://app.mintdao.io/congratulations
 omnisea.org/9168079769462
 
 ### 生态系统
 https://ecosystem.zksync.io/    
-https://mintsquare.io/mint   
+ 
 
 
 ### 奥德赛
