@@ -40,13 +40,13 @@ https://syncswap.xyz/
 https://guild.xyz/syncswap 
 https://galxe.com/SyncSwap/campaign/GCd81U1awt
 ```
-```
+ 
 
 其他的交互平台  
 https://app.mute.io/  
 https://onchain.trade/
 https://swap-zksync.spacefi.io  
-
+https://fi.woo.org/stake/
 ### 小牛的活动
 2023/04/18 03:05 - 2023/05/18 03:00 GMT+08:00
 小牛是一个DEFI交易所，参加活动 可以得到一个专属的小牛NFT 要验证邮箱，还有电报
@@ -55,7 +55,7 @@ https://galxe.com/maverick-protocol/campaign/GCaWYU6kad
 ### 合约交互
 ```
 https://leverage.unidex.exchange/   
-No.8, 13 买比特币，2倍杠杆 
+No.4 8, 13 买比特币，2倍杠杆 
 ```
 ### 域名 
 https://zks.network/ 免费  
