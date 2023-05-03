@@ -24,4 +24,11 @@ https://app.jediswap.xyz/#/swap
 https://testnet.artemis.zklend.com/markets  
 https://zk.hashstack.finance/  
 
+### 给dapp打分也算一次交易
+https://www.dappland.com/
 ### 头盔钱包的Gal任务
+
+
+### 人字钱包的任务
+连续八个NFT
+5月9号晚上23:59 第一次snapshot
