@@ -89,6 +89,8 @@ https://venom.network/
 https://testnet.venomstake.com/
 https://venom.network/tasks  
 
+https://venom.network/tasks/venom-wallet
+
 https://testnet.web3.world/swap  
 
 task stake  
