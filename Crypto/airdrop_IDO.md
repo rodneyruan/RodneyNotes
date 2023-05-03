@@ -84,13 +84,16 @@ aidoge 已经登陆OKX交易所
 https://daomaker.com/company-sale-rounds/karate-combat/public/Dn3tR6bwvw
 ```
 ### Venom毒液
+参考 https://twitter.com/0xFastLife/status/1653060333353988096  
 https://venom.network/  
 https://testnet.venomstake.com/
 https://venom.network/tasks  
 
-task stake
-https://testnet.venomstake.com/
-task bridge  
+https://testnet.web3.world/swap  
+
+task stake  
+https://testnet.venomstake.com/  
+task bridge   
 https://venom.network/tasks/venom-bridge  
 https://testnet.venombridge.com/bridge  
 ### Base上的域名
