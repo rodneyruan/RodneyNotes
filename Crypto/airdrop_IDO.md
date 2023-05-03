@@ -125,3 +125,6 @@ https://discord.gg/zetachain
 https://asetpay.org/zetachain.html#
 连接钱包mint就好
 ```
+
+### Linea 奥德赛
+https://mirror.xyz/putao%F0%9F%8D%87.eth/PmepsYI8k4ir4mLJo3FgtOqc75SFxd9sYZ4f2YYBO3I
