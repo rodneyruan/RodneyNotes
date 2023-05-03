@@ -85,9 +85,12 @@ https://daomaker.com/company-sale-rounds/karate-combat/public/Dn3tR6bwvw
 ```
 ### Venom毒液
 https://venom.network/  
-
+https://testnet.venomstake.com/
 https://venom.network/tasks  
-bridge  
+
+task stake
+https://testnet.venomstake.com/
+task bridge  
 https://venom.network/tasks/venom-bridge  
 https://testnet.venombridge.com/bridge  
 ### Base上的域名
