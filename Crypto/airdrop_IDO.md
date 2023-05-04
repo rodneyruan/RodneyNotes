@@ -141,5 +141,5 @@ Bridge any amount of TUSD on Multichain from Avalanche Fuji to Linea
 
 https://galxe.com/Linea/campaign/GCd1YUZyrN
 https://mirror.xyz/putao%F0%9F%8D%87.eth/PmepsYI8k4ir4mLJo3FgtOqc75SFxd9sYZ4f2YYBO3I   
-54A9: ETH, USDC, DAI, HOP   
-FD75: ETH,  DAI, HOP   
+54A9: ETH, USDC, DAI, HOP   MATIC BNB
+FD75: ETH,  DAI, HOP   USDC, BUSD, BNB
