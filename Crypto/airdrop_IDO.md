@@ -118,6 +118,6 @@ https://asetpay.org/zetachain.html#
 ```
 
 ### Linea  Voyage - Bridge Week
-
+05/02/2023 - 05/07/2023.
 https://galxe.com/Linea/campaign/GCd1YUZyrN
 https://mirror.xyz/putao%F0%9F%8D%87.eth/PmepsYI8k4ir4mLJo3FgtOqc75SFxd9sYZ4f2YYBO3I
