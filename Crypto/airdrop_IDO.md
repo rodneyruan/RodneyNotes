@@ -123,6 +123,8 @@ https://asetpay.org/zetachain.html#
 
 Celer
 Bridge any amount of BUSD on Celer from BSC Testnet to Linea
+假的BUSD，需要在这里兑换  
+https://pancakeswap.finance/swap?chain=bscTestnet&outputCurrency=0xaB1a4d4f1D656d2450692D237fdD6C7f9146e814  
 Bridge any amount of BNB on Celer from BSC Testnet to Linea
 Connext
 Bridge any amount of MATIC on Connext from Polygon Testnet to Linea
