@@ -4,9 +4,10 @@
 
 
 ### whitehole finance
+
+*  https://galxe.com/whiteholefinance/campaign/GCGS9UfcvD  
+*  https://whitehole.finance/
 ```
-https://galxe.com/whiteholefinance/campaign/GCGS9UfcvD  
-https://whitehole.finance/
 
 这是arbitrum的 借贷平台 收益率挺高，  
 WL price : 1 $GRV = $0.015 
