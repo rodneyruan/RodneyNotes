@@ -117,5 +117,7 @@ https://asetpay.org/zetachain.html#
 连接钱包mint就好
 ```
 
-### Linea 奥德赛
+### Linea  Voyage - Bridge Week
+
+https://galxe.com/Linea/campaign/GCd1YUZyrN
 https://mirror.xyz/putao%F0%9F%8D%87.eth/PmepsYI8k4ir4mLJo3FgtOqc75SFxd9sYZ4f2YYBO3I
