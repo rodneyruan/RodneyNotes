@@ -13,3 +13,11 @@ https://cointool.app/dashboard
 - gETH Faucet: https://goerlifaucet.com/
 - Klaytn Faucet: https://baobab.wallet.klaytn.foundation/faucet
 - Polygon mumbai Faucet: https://mumbaifaucet.com/
+
+
+###  Swap testnet coins
+如果发现领水很困难，可以直接swap，也可以跨链  
+https://testnet.bridge.connext.network  
+https://testnetbridge.com/pools    
+https://goerli.hop.exchange/#/send?token=USDC&destNetwork=linea&sourceNetwork=ethereum  
+https://test.multichain.org/#/router  
