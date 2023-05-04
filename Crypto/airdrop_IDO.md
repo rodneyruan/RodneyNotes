@@ -119,6 +119,24 @@ https://asetpay.org/zetachain.html#
 
 ### Linea  Voyage - Bridge Week
 05/02/2023 - 05/07/2023.   
+
+
+Celer
+Bridge any amount of BUSD on Celer from BSC Testnet to Linea
+Bridge any amount of BNB on Celer from BSC Testnet to Linea
+Connext
+Bridge any amount of MATIC on Connext from Polygon Testnet to Linea
+
+Hop
+Bridge any amount of USDC on Hop from Goerli to Linea
+Bridge any amount of GETH on Hop from Goerli
+Bridge any amount of HOP on Hop from Goerli to Linea
+Bridge any amount of DAI on Hop from Goerli to Linea
+
+Multichain
+Bridge any amount of EUROEe on Multichain from Avalanche Fuji to Linea
+Bridge any amount of TUSD on Multichain from Avalanche Fuji to Linea
+
 https://galxe.com/Linea/campaign/GCd1YUZyrN
 https://mirror.xyz/putao%F0%9F%8D%87.eth/PmepsYI8k4ir4mLJo3FgtOqc75SFxd9sYZ4f2YYBO3I   
 54A9: ETH, USDC, DAI, HOP   
