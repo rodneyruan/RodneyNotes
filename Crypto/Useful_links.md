@@ -30,4 +30,8 @@ https://test.multichain.org/#/router
  
  
  ### 女巫分析工具
-https://metasleuth.io/
+https://metasleuth.io/  
+查gas  
+mct.xyz/gasnow  
+L2TX查询
+l2savings.org
