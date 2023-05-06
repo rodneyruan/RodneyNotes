@@ -110,8 +110,10 @@ https://app.basecamp.global/
 ### zeta
 https://discord.gg/zetachain
 ```
-2.找到zeta-faucet这个频道
-发送zeta faucet drip+钱包地址+zetachain领取测试币
+领水
+https://labs.zetachain.com/get-zeta
+别去DC，DC领水太难
+
 3.领取地址：
 https://asetpay.org/zetachain.html#
 连接钱包mint就好
