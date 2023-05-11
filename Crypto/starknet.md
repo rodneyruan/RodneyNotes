@@ -30,7 +30,9 @@ https://www.dappland.com/
 
 
 ### 人字钱包的任务
-连续八个NFT
+连续八个NFT  
+
+
 5月9号晚上23:59 第一次snapshot
 注册域名  
 https://xplorer.starknet.id/  
