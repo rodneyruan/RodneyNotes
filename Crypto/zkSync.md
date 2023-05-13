@@ -68,9 +68,11 @@ https://app.zkns.domains/  收费
 https://app.mintdao.io/congratulations
 omnisea.org/9168079769462
 
+搞活动   
+https://app.zkdx.io/#/trade  
+
 ### 生态系统
 https://ecosystem.zksync.io/    
- 
 
 
 ### 奥德赛
