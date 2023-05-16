@@ -31,7 +31,7 @@ https://www.dappland.com/
 
 ### 人字钱包的任务
 连续八个NFT  
-
+第一个可以领了 https://xplore.argent.xyz/claim   
 
 5月9号晚上23:59 第一次snapshot
 注册域名  
