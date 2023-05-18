@@ -143,6 +143,7 @@ MPC and ZKP
 
 ### ZKAPE  
 zkape.io    
+https://galxe.com/izumi/campaign/GCevEUXUgP   
 ### 土狗
 https://zkmilady.com/?ref=0x9007dd9262CaF8DD5a352c80c59FEd5854B854A9#about   
 
