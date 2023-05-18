@@ -149,3 +149,8 @@ FD75: ETH,  DAI, HOP   USDC, BUSD, BNB
 
 Linea 第二周  
 https://galxe.com/Linea/campaign/GCPRsUEZhR  
+
+###  World Coin
+2,5 done   
+
+https://optimism.decent.xyz/  
