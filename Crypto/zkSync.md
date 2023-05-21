@@ -68,6 +68,10 @@ https://zks.network/ 免费
 12，13， 19， 20 21 22
 
 https://app.zkns.domains/  收费  
+
+era域名5块一个，空投，搞了前3  
+https://airdrop.era.name/
+
 ### NFT
 https://app.mintdao.io/congratulations
 omnisea.org/9168079769462
