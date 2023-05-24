@@ -31,6 +31,7 @@ https://www.dappland.com/
 
 ### 人字钱包的任务
 连续八个NFT  
+https://www.argent.xyz/blog/xplorer/
  https://xplore.argent.xyz/claim   
 
 第二个：
