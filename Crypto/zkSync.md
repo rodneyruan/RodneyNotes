@@ -148,8 +148,11 @@ MPC and ZKP
 ### ZKAPE  
 zkape.io    
 https://galxe.com/izumi/campaign/GCevEUXUgP   
-### 土狗
-https://zkmilady.com/?ref=0x9007dd9262CaF8DD5a352c80c59FEd5854B854A9#about   
+### 土狗 ZKLADY
+领取： https://zkmilady.com/?ref=0x9007dd9262CaF8DD5a352c80c59FEd5854B854A9#about   
+交易   https://syncswap.xyz/?outputCurrency=0x6De8c9C56722E6cE4d725b1c57cB85C9fd7f5aFF  
+
+
 https://airdrop.era.name/ 1-3，可以领5500个，全部质押了，
 
 
