@@ -37,11 +37,13 @@ Era 主网 https://portal.zksync.io
 ```
 https://syncswap.xyz/  
 
-4月20号前搞活动，1号2号都得到了Role和 OAT NFT
+4月活动， 20号前搞活动，1号2号都得到了Role和 OAT NFT
 https://guild.xyz/syncswap 
 https://galxe.com/SyncSwap/campaign/GCd81U1awt
-5月份活动，5月30号前，交易一次， 验证Twitter  
+
+5月份活动，5月30号前，syncswap 交易一次， 验证Twitter就可以得到一个NFT   
 https://galxe.com/SyncSwap/campaign/GC2dzUXcNp  
+1-4
 ```
  
 
