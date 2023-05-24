@@ -8,7 +8,7 @@ Era 主网 https://portal.zksync.io
 > https://portal.zksync.io   
 
 第三方跨链桥  
-> https://cbridge.celer.network/56/324/WETH 现在搞活动  
+> https://cbridge.celer.network/56/324/WETH  
 >  https://app.rubic.exchange  跨链聚合器，现在有gas返还 
 > https://www.orbiter.finance  
 > https://www.layerswap.io  
@@ -52,10 +52,7 @@ https://app.mute.io/
 https://onchain.trade/
 https://swap-zksync.spacefi.io  
 https://fi.woo.org/stake/
-### 小牛的活动
-2023/04/18 03:05 - 2023/05/18 03:00 GMT+08:00
-小牛是一个DEFI交易所，参加活动 可以得到一个专属的小牛NFT 要验证邮箱，还有电报
-https://galxe.com/maverick-protocol/campaign/GCaWYU6kad
+ 
 
 ### 合约交互
 ```
@@ -77,7 +74,7 @@ era域名5块一个，空投，搞了前3
 https://airdrop.era.name/
 
 ### NFT
-https://app.mintdao.io/congratulations
+https://app.mintdao.io/congratulations   
 omnisea.org/9168079769462
 
 搞活动   
