@@ -77,6 +77,9 @@ https://airdrop.era.name/
 https://app.mintdao.io/congratulations   
 omnisea.org/9168079769462
 
+
+https://karatdao.com/mint/claimer  
+
 搞活动   
 https://app.zkdx.io/#/trade  
 
