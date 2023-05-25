@@ -24,7 +24,7 @@ https://app.jediswap.xyz/#/swap
 https://www.dappland.com/
 
 
-### 头盔钱包的活动
+### 头盔钱包的活动  Starknet Journey 
 
 第二个NFT 需要手机  
 https://starknet-journey-map.braavos.app/  
