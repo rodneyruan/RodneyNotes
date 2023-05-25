@@ -20,16 +20,17 @@ https://app.jediswap.xyz/#/swap
 ### 免费 NFT
 > https://starkverse.art/   
 
-### 测试网交互 
-https://testnet.artemis.zklend.com/markets  
-https://zk.hashstack.finance/  
-
 ### 给dapp打分也算一次交易
 https://www.dappland.com/
-### 头盔钱包的Gal任务
 
 
-### 人字钱包的任务
+### 头盔钱包的活动
+
+第二个NFT 需要手机  
+https://starknet-journey-map.braavos.app/  
+
+
+### 人字钱包的活动   
 连续八个NFT  
 
 https://xplorer.argent.xyz/claim/c975d0b1-3990-45b5-82b5-3f60456baec2  
