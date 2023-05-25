@@ -39,15 +39,9 @@ https://xplorer.argent.xyz/claim/9265e0bc-ae7d-4ad2-9c51-ec93fd734bd0  没领到
 
  https://xplore.argent.xyz/claim   
 
-
-第二个：
-5月9号晚上23:59 第一次snapshot
+### Starkfight 飞机的活动
+starknet.quest/quest/123
+ 
 注册域名  
 https://xplorer.starknet.id/  
-玩飞机游戏  
-https://starkfighter.xyz/  
-赢NFT 
-https://starknet.quest/quest/123  
 
-
-第三个：Jedi swap   
