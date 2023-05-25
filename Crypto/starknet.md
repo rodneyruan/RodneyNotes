@@ -31,8 +31,13 @@ https://www.dappland.com/
 
 ### 人字钱包的任务
 连续八个NFT  
-https://www.argent.xyz/blog/xplorer/
+
+https://xplorer.argent.xyz/claim/c975d0b1-3990-45b5-82b5-3f60456baec2  
+https://xplorer.argent.xyz/claim/fefacf00-12ab-475f-852b-1c7fea184442  
+https://xplorer.argent.xyz/claim/9265e0bc-ae7d-4ad2-9c51-ec93fd734bd0  没领到   
+
  https://xplore.argent.xyz/claim   
+
 
 第二个：
 5月9号晚上23:59 第一次snapshot
@@ -44,4 +49,4 @@ https://starkfighter.xyz/
 https://starknet.quest/quest/123  
 
 
-第三个：
+第三个：Jedi swap   
