@@ -155,6 +155,7 @@ https://galxe.com/Linea/campaign/GCPRsUEZhR
 ```
 Linea 第三周  
 https://galxe.com/Linea/campaign/GCEMnUEySZ   
+创建 NFT https://nfts2me.com/create/edition/
 ```
 ```
 Linea 第四周
