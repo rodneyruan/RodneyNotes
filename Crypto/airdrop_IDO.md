@@ -157,3 +157,6 @@ https://optimism.decent.xyz/
 
 ### 郁金香 领过ARB就可以领取
 https://tulipgame.io/play  
+
+### 印度的土狗 shaka
+shaka.guru 领了2个，但是好像卖不掉？？   
