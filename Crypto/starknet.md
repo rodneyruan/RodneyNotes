@@ -33,9 +33,11 @@ https://starknet-journey-map.braavos.app/
 ### 人字钱包的活动   
 连续八个NFT  
 
-https://xplorer.argent.xyz/claim/c975d0b1-3990-45b5-82b5-3f60456baec2  
-https://xplorer.argent.xyz/claim/fefacf00-12ab-475f-852b-1c7fea184442  
-https://xplorer.argent.xyz/claim/9265e0bc-ae7d-4ad2-9c51-ec93fd734bd0  没领到   
+第一周， https://xplorer.argent.xyz/claim/c975d0b1-3990-45b5-82b5-3f60456baec2  
+第二周， https://xplorer.argent.xyz/claim/fefacf00-12ab-475f-852b-1c7fea184442  
+第三周， Jediswap， https://xplorer.argent.xyz/claim/9265e0bc-ae7d-4ad2-9c51-ec93fd734bd0  没领到   
+
+第4周新任务4月1-5月30 在http://Mintsquare.io购买出售/铸造NFT即可  
 
  https://xplore.argent.xyz/claim   
 
