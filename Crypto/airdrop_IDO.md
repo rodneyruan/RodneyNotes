@@ -119,13 +119,14 @@ https://asetpay.org/zetachain.html#
 连接钱包mint就好
 ```
 
-### Linea  Voyage - Bridge Week
-05/02/2023 - 05/07/2023.   
+### Linea  Voyage 一共八周
+```
+第一周 Bridge Week 05/02/2023 - 05/07/2023.   
+https://galxe.com/Linea/campaign/GCd1YUZyrN  
 
-
-Celer
+1. Celer
 Bridge any amount of BUSD on Celer from BSC Testnet to Linea
-假的BUSD，需要在这里兑换  
+ BUSD，需要在这里兑换  
 https://pancakeswap.finance/swap?chain=bscTestnet&outputCurrency=0xaB1a4d4f1D656d2450692D237fdD6C7f9146e814  
 Bridge any amount of BNB on Celer from BSC Testnet to Linea
 Connext
@@ -146,12 +147,20 @@ https://mirror.xyz/putao%F0%9F%8D%87.eth/PmepsYI8k4ir4mLJo3FgtOqc75SFxd9sYZ4f2YY
 54A9: ETH, USDC, DAI, HOP   MATIC BNB
 FD75: ETH,  DAI, HOP   USDC, BUSD, BNB
 
-
+```
+```
 Linea 第二周  
 https://galxe.com/Linea/campaign/GCPRsUEZhR  
-
+```
+```
 Linea 第三周  
 https://galxe.com/Linea/campaign/GCEMnUEySZ   
+```
+```
+Linea 第四周
+https://galxe.com/Linea/campaign/GC9kPUX6pP
+投票 https://snapshot.org/#/linea-build.eth/proposal/0xda4f201a37ea08cf1892418e7b9e88f5687a68dbdc96c3ab22abaa1c7244648e
+```
 ###  World Coin
 2,5 done   
 
