@@ -35,6 +35,13 @@ https://starknet-journey-map.braavos.app/
 ### 人字钱包的活动   连续八周
 https://www.argent.xyz/blog/xplorer/
 
+Week 1 - Argent Xplorer 都可以领
+Week 2 - Starkfighter 都可以领
+Week 3 - Jediswap 错过快照了，只有2号可以领
+Week 4 - Mintsquare  
+Buy, sell OR mint an NFT on Mintsquare.io on Starknet mainnet using your Argent X wallet, between 1st April 2023 and 30th May, 23:59 UTC. You do not need to do all three!  
+
+
 
  
 
