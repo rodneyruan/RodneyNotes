@@ -42,10 +42,3 @@ Week 4 - Mintsquare
 Buy, sell OR mint an NFT on Mintsquare.io on Starknet mainnet using your Argent X wallet, between 1st April 2023 and 30th May, 23:59 UTC. You do not need to do all three!  
 
 
-
- 
-
-### Starkfight 飞机的活动
-https://starknet.quest/quest/123
-需要有域名才能参与， 没有的话，这里可以注册一个：   https://xplorer.starknet.id/  
-
