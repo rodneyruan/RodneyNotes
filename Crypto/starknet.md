@@ -26,12 +26,16 @@ https://www.dappland.com/
 
 
 ### 头盔钱包的活动  Starknet Journey 连续八周
+```
 第1周： 已经结束， 不过有破解方式还可以继续领NFT，参考这个教程
 https://twitter.com/sanyi_eth_/status/1661916814627012608
-
+```
+```
 第2周， 需要手机下载头盔钱包的APP
 https://starknet-journey-map.braavos.app/  
-
+如果不想安装手机APP，可以绕开手机验证，直接mint NFT，参考这个教程  
+ https://twitter.com/Said46807236/status/1661578894326263808  
+```
 
 ### 人字钱包的活动   连续八周
 https://www.argent.xyz/blog/xplorer/
