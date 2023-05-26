@@ -24,26 +24,24 @@ https://app.jediswap.xyz/#/swap
 https://www.dappland.com/
 
 
-### 头盔钱包的活动  Starknet Journey 
+### 头盔钱包的活动  Starknet Journey 连续八周
+第1周： 已经结束， 不过有破解方式还可以继续领NFT，参考这个教程
+https://twitter.com/sanyi_eth_/status/1661916814627012608
 
-第二个NFT 需要手机  
+第2周， 需要手机下载头盔钱包的APP
 https://starknet-journey-map.braavos.app/  
 
 
-### 人字钱包的活动   
-连续八个NFT  
+### 人字钱包的活动   连续八周
+https://xplore.argent.xyz/claim   
+第1周， https://xplorer.argent.xyz/claim/c975d0b1-3990-45b5-82b5-3f60456baec2  
+第2周， https://xplorer.argent.xyz/claim/fefacf00-12ab-475f-852b-1c7fea184442  
+第3周， Jediswap， https://xplorer.argent.xyz/claim/9265e0bc-ae7d-4ad2-9c51-ec93fd734bd0  没领到    
+第4周   4月1-5月30 在http://Mintsquare.io购买出售/铸造NFT即可  
 
-第一周， https://xplorer.argent.xyz/claim/c975d0b1-3990-45b5-82b5-3f60456baec2  
-第二周， https://xplorer.argent.xyz/claim/fefacf00-12ab-475f-852b-1c7fea184442  
-第三周， Jediswap， https://xplorer.argent.xyz/claim/9265e0bc-ae7d-4ad2-9c51-ec93fd734bd0  没领到   
-
-第4周新任务4月1-5月30 在http://Mintsquare.io购买出售/铸造NFT即可  
-
- https://xplore.argent.xyz/claim   
+ 
 
 ### Starkfight 飞机的活动
-starknet.quest/quest/123
- 
-注册域名  
-https://xplorer.starknet.id/  
+https://starknet.quest/quest/123
+需要有域名才能参与， 没有的话，这里可以注册一个：   https://xplorer.starknet.id/  
 
