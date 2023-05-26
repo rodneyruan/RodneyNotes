@@ -79,6 +79,7 @@ omnisea.org/9168079769462
 
 
 https://karatdao.com/mint/claimer  
+KaratDao的 Galxe活动， https://galxe.com/ElementMarket/campaign/GCT4CUXtLU  
 
 搞活动   
 https://app.zkdx.io/#/trade  
