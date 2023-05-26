@@ -17,8 +17,9 @@ https://app.jediswap.xyz/#/swap
 > 也可以在钱包里免费注册二级域名 rodney.braavos.stark  
 > Register braavos.stark domain and create it by clicking “Register.” 
 
-### 免费 NFT
-> https://starkverse.art/   
+### NFT
+> 免费领取 https://starkverse.art/   
+>  MINT Mintsquare.io
 
 ### 给dapp打分也算一次交易
 https://www.dappland.com/
