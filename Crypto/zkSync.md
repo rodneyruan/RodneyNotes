@@ -80,9 +80,14 @@ https://airdrop.era.name/
 https://app.mintdao.io/congratulations   
 omnisea.org/9168079769462
 
+KaratDao 要求0.02e 余额，要验证Twitter，DC， 邮箱，
+https://karatdao.com/mint/claimer 
 
-https://karatdao.com/mint/claimer  
-KaratDao的 Galxe活动， https://galxe.com/ElementMarket/campaign/GCT4CUXtLU  
+
+同时还可以在 Galxe领一个NFT https://galxe.com/ElementMarket/campaign/GCT4CUXtLU  
+
+ 1号搞了 
+21号搞了，02 DC，03 Twitter，03gmail
 
 https://0dayproject.xyz/#main 5U 一个NFT， 搞了两个  
 
@@ -104,4 +109,6 @@ https://galxe.com/izumi/campaign/GCevEUXUgP
 
 https://airdrop.era.name/ 1-3，可以领5500个，全部质押了，
 
+### OKX 搞的Web3 钱包 很好用
+https://www.okx.com/web3?wallet=0xe04D285A46296E8caa5cfacac1f722a3ced9f4Dd
 
