@@ -80,14 +80,13 @@ https://airdrop.era.name/
 https://app.mintdao.io/congratulations   
 omnisea.org/9168079769462
 
-KaratDao 要求0.02e 余额，要验证Twitter，DC， 邮箱，
+KaratDao 要求0.02e 余额，要验证Twitter，DC， 邮箱，三种都可以重复使用，可以刷多号，不知道以后领取空投的时候会不会有问题
 https://karatdao.com/mint/claimer 
 
 
 同时还可以在 Galxe领一个NFT https://galxe.com/ElementMarket/campaign/GCT4CUXtLU  
 
- 1号搞了 
-23号搞了，02 DC，03 Twitter，03gmail
+1,5,7，22,23,
 
 https://0dayproject.xyz/#main 5U 一个NFT， 搞了两个  
 
