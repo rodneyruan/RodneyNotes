@@ -62,6 +62,9 @@ No.4 8, 13 买比特币，2倍杠杆
 
 https://app.rollup.finance/#/trade
 4   long ETH 1800
+
+
+https://app.zkdx.io/#/trade  
 ```
 ### 域名 
 https://zks.network/ 免费  
@@ -80,10 +83,10 @@ omnisea.org/9168079769462
 
 https://karatdao.com/mint/claimer  
 KaratDao的 Galxe活动， https://galxe.com/ElementMarket/campaign/GCT4CUXtLU  
+
 https://0dayproject.xyz/#main 5U 一个NFT， 搞了两个  
 
-搞活动   
-https://app.zkdx.io/#/trade  
+
 
 ### 生态系统
 https://ecosystem.zksync.io/    
