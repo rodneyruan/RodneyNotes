@@ -62,7 +62,7 @@ No.4 8, 13 买比特币，2倍杠杆
 
 https://app.rollup.finance/#/trade
 4   long ETH 1800
-
+5号也搞了
 
 https://app.zkdx.io/#/trade  
 ```
