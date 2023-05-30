@@ -87,7 +87,7 @@ https://karatdao.com/mint/claimer
 同时还可以在 Galxe领一个NFT https://galxe.com/ElementMarket/campaign/GCT4CUXtLU  
 
  1号搞了 
-22号搞了，02 DC，03 Twitter，03gmail
+23号搞了，02 DC，03 Twitter，03gmail
 
 https://0dayproject.xyz/#main 5U 一个NFT， 搞了两个  
 
