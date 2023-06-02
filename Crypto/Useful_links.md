@@ -35,3 +35,12 @@ https://metasleuth.io/
 mct.xyz/gasnow  
 L2TX查询
 l2savings.org
+
+###  追踪transactions
+https://hapi-one.gitbook.io/hapi-protocol    
+
+### 部署自己的合约工具
+https://thirdweb.com/  
+参考教程 https://docs.linea.build/use-linea/explore/use-thirdweb  
+### 合约安全分析工具
+参考教程 https://docs.linea.build/use-linea/explore/use-goplus-security-api
