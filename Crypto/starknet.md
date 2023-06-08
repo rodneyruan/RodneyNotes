@@ -26,9 +26,9 @@ https://www.dappland.com/
 
 
 ### 头盔钱包的活动  Starknet Journey 连续八周
+> 活动链接  https://braavos.app/starknet-journey/  
+> 领取链接 https://starknet-journey-map.braavos.app/  
 ```
-https://braavos.app/starknet-journey/
-
 第1周： 已经结束， 不过有破解方式还可以继续领NFT，参考这个教程
 https://twitter.com/sanyi_eth_/status/1661916814627012608
 ```
@@ -37,9 +37,15 @@ https://twitter.com/sanyi_eth_/status/1661916814627012608
 https://starknet-journey-map.braavos.app/  
 如果不想安装手机APP，可以绕开手机验证，直接mint NFT，参考这个教程  
  https://twitter.com/Said46807236/status/1661578894326263808  
- 
+``` 
  第3周 MySwap May 31st, 13:00 and June 7th, 12:59 pm.
   swap any amount from your Braavos Wallet or mySwap or add any amount to mySwap’s liquidity pool between May 31st, 13:00 and June 7th, 12:59 pm.
+```
+```
+ 第4周
+Challenge: to qualify for the ‘Starknet Identity Journey NFT’ — the 4th milestone of the collection — you are required to connect an account that already has a subdomain (e.g., “x.braavos.stark”) or a domain (e.g., “.stark”) that represents your traditional account address.
+
+Claim Period: begins on June 7th at 13:00 UTC and lasts until June 14th at 07:59 UTC.
 ```
 
 ### 人字钱包的活动   连续八周
