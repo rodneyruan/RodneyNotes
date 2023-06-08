@@ -38,6 +38,7 @@ https://starknet-journey-map.braavos.app/
 如果不想安装手机APP，可以绕开手机验证，直接mint NFT，参考这个教程  
  https://twitter.com/Said46807236/status/1661578894326263808  
 ``` 
+```
  第3周 MySwap May 31st, 13:00 and June 7th, 12:59 pm.
   swap any amount from your Braavos Wallet or mySwap or add any amount to mySwap’s liquidity pool between May 31st, 13:00 and June 7th, 12:59 pm.
 ```
@@ -47,7 +48,11 @@ Challenge: to qualify for the ‘Starknet Identity Journey NFT’ — the 4th mi
 
 Claim Period: begins on June 7th at 13:00 UTC and lasts until June 14th at 07:59 UTC.
 ```
+```
+ 第5周
+To qualify, connect your account using a domain or subdomain instead of a regular numeric address. You can register a '.braavos.stark' domain from your account settings for free.
 
+```
 ### 人字钱包的活动   连续八周
 https://www.argent.xyz/blog/xplorer/
 
@@ -55,6 +60,6 @@ Week 1 - Argent Xplorer 都可以领
 Week 2 - Starkfighter 都可以领  
 Week 3 - Jediswap 错过快照了，只有2号可以领  
 Week 4 - Mintsquare   https://mintsquare.io  mint 一个NFT， 截止日期 30th May, 23:59 UTC， Done
-
+Week 5 - LayerSwap， Done
 
 
