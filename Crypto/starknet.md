@@ -62,4 +62,9 @@ Week 3 - Jediswap 错过快照了，只有2号可以领
 Week 4 - Mintsquare   https://mintsquare.io  mint 一个NFT， 截止日期 30th May, 23:59 UTC， Done
 Week 5 - LayerSwap， Done
 
+Week 6 - Briq
+Task
+Use https://briq.construction/builder?xplorer=true to build and mint a briq set with 30 briqs or more on Starknet mainnet between June 6th 2023 and 23:59 UTC June 13th 2023. You can follow the instructions on the briq builder to mint a briq Xplorer character OR build and mint anything you want with 30 briqs or more.
+
+UPDATE: Due to huge demand, the price of briqs became too high, so we've reduced the requirement to 10 briqs, not 30.
 
