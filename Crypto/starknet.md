@@ -53,7 +53,7 @@ Claim Period: begins on June 7th at 13:00 UTC and lasts until June 14th at 07:59
 ```
 ```
  第5周
-
+ Deposit any amount to Starknet after .June 14th, 8:00 am UTC
 ```
 ### 人字钱包的活动   连续八周
 https://www.argent.xyz/blog/xplorer/
