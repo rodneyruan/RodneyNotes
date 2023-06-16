@@ -70,3 +70,6 @@ Use https://briq.construction/builder?xplorer=true to build and mint a briq set 
 
 UPDATE: Due to huge demand, the price of briqs became too high, so we've reduced the requirement to 10 briqs, not 30.
 
+
+Week 7 - AVNU
+Use https://app.avnu.fi/ to perform a swap using your Argent X wallet on Starknet mainnet between May 1st 2023 and 23:59 UTC June 20th 2023.
