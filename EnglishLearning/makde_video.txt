@@ -1,7 +1,20 @@
 
 text to speech:
 https://ttsmaker.com/
+natarulreaders
+1 http://elevenlabs.io
+2 http://speechify.com
+3 http://murf.ai
+4 http://fakeyou.com
+5 http://uberduck.ai
+6 http://descript.com
+7 http://play.ht
+8 http://resemble.ai
+http://voicemaker.in
+http://lovo.ai
 
+
+Make video:
 https://app.visla.us 
 https://invideo.io/workflow/marketing-templates
 https://app.visla.us/clip/1118622286597881856
