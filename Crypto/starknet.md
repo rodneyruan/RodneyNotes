@@ -55,6 +55,14 @@ Claim Period: begins on June 7th at 13:00 UTC and lasts until June 14th at 07:59
  第5周
  Deposit any amount to Starknet after .June 14th, 8:00 am UTC
 ```
+头盔钱包的NFT 可以补救：   
+只需要在钱包上做Swap   
+Total swaps worth $200 will unlock NFT 1  
+Total swaps worth $150 will unlock NFT 2  
+Total swaps worth $100 will unlock NFT 3  
+Total swaps worth $50 will unlock NFT 4  
+Total swaps worth $20 will unlock NFT 5  
+
 ### 人字钱包的活动   连续八周
 https://www.argent.xyz/blog/xplorer/
 
