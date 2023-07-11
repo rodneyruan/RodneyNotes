@@ -15,6 +15,8 @@ Public price : 1 $GRV = $0.02
 
 e1,e2,  deposit 10 U，得到NFT
 e2，只有在0.02的价格买了100U，
+evm1 只有十几个claimable,
+evm2， 5000个GRV，25500添加了流动性，2500锁定三年
 ```
 
 ### KAVA, VARA
