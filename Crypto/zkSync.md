@@ -110,3 +110,7 @@ https://airdrop.era.name/ 1-3，可以领5500个，全部质押了，
 ### OKX 搞的Web3 钱包 很好用
 https://www.okx.com/web3?wallet=0xe04D285A46296E8caa5cfacac1f722a3ced9f4Dd
 
+### 土狗项目，免费领取 Pawpoints
+1-23
+https://petaverse.space?code=d32BElE5MLmYY&chainId=324
+
