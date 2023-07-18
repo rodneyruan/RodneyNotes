@@ -1,0 +1,25 @@
+Single is same as the built-in command test.
+Double brackets are enhancement to make it easier to use They are not POXIS compliant.
+
+Use the comparison operators with the double brackets
+
+[[ 1 < 2 ]] ----------------> OK
+[ 1 < 2 ]   ----------------> NOK
+[ 1 \< 2 ]- ---------------> OK
+&& || > < 这些运算符号只能用在 [[]] 中，单个方括号，要用 -gt -lt, -a -o 
+[ 3 -eq 3 -a 4 -eq 4 ] ---------------> OK
+
+$ name=”Alice”
+$ [[ $name = *c* ]] && echo “Name includes c”， 测试name是不是含有字母c
+这种情况只能用双 方括号
+
+name=”Alice”
+$ [[ $name =~ ^Ali ]] && echo ”Regular expressions can be used” 测试是不是Ali 开头
+这种情况只能用双方括号
+
+结论： 单方括号兼容性好， 可移植性强， POSIX 规范， 但是很多语法不能用；双方括号可以使用更多语法，但是可移植性弱，不支持POXIS
+
+We saw that we could use comparison operators and boolean operators in both, 
+apart from a few differences. 
+The same thing is valid for grouping expressions and word splitting.
+However, using pattern matching and regular expressions is only possible in the double brackets.
