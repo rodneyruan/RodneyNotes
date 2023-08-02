@@ -1,4 +1,4 @@
-### 读取文件每一行，并处理其中数据
+### 读取文件每一行，并处理其中数据 Read a file line-by-line by iterating.
 > 数据如下
 > ```
 > AA 100 32.20
@@ -17,4 +17,11 @@ with open('Data/portfolio.dat', 'r') as f:
         total_cost = total_cost + nshares * price
 
 print(total_cost)
+```
+### 读取文件一次性处理数据 Read an entire file all at once as a string.
+
+```python
+with open('foo.txt', 'rt') as file:
+    data = file.read()
+    # `data` is a string with all the text in `foo.txt`
 ```
