@@ -26,6 +26,26 @@ with open('foo.txt', 'rt') as file:
     # `data` is a string with all the text in `foo.txt`
 ```
 
+### 定义函数， 错误处理
+```python
+def portfolio_cost(filename):
+    total_cost = 0.0
+    with open(filename) as f:
+        for line in f:
+            fields = line.split()
+            try:
+                nshares = int(fields[1])
+                price = float(fields[2])
+                total_cost = total_cost + nshares*price
+
+            # This catches errors in int() and float() conversions above
+            except ValueError as e:
+                print("Couldn't parse:", repr(line))
+                print("Reason:", e)
+    return total_cost
+
+print(portfolio_cost('Data/portfolio3.dat'))
+```
 ### 条件语句 conditional with if statement
 > if 后可以不用括号， 是elif 不是 elseif   
 > Check for multi conditions by adding extra checks using elif    
