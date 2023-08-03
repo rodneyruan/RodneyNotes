@@ -28,7 +28,7 @@ with open('foo.txt', 'rt') as file:
 
 ### 条件语句 conditional with if statement
 > if 后可以不用括号， 是elif 不是 elseif   
-> Check for multi conditions by adding extra checks using elif 
+> Check for multi conditions by adding extra checks using elif    
 ```python
 if a > b:
     print("A")
@@ -36,4 +36,10 @@ elif a == b:
     print("B")
 else:
     print("C")
+```
+
+### 用户输入 user input
 ```python
+name = input('What is your name? ')
+print('Hello ' + name)
+``` 
