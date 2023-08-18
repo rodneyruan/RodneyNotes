@@ -47,3 +47,5 @@ https://thirdweb.com/
 
 ### 币圈百宝箱
 https://docs.google.com/spreadsheets/d/1WWqbgh6_Ph9nOu23OWACPD4VyuJmLZNNpK0zp9yRmQY/edit?pli=1#gid=1644975646   
+### 查看持仓加权平均资金费率
+https://tv.coinglass.com/zh/Binance_BTCUSDT
