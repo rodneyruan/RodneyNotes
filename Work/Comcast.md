@@ -13,6 +13,15 @@ git fetch http://rruan@ttmgerrit.arrisi.com/a/TTM/puma7/arris-source_private ref
 
  /export/rruan/repo start contrib/bp-rruan335/INTCS-620 meta-rdk-oem-arris-intel-gw-xb6
 ```
+
+### Build Image
+```
+MACHINE=arrisxb7-sdk72x
+source  meta-arris-intel-gw-private/setup-environment 
+
+cd build-arrisxb7atom-sdk72x; bitbake comcast-broadband-dev-image 
+cd ../build-arrisxb7arm-sdk72x; bitbake comcast-broadband-dev-image 
+```
 ###  build  SIPV6  image
 ```
 打开这两个配置文件，加入下面这行， 记得 "sipv6"前面要留空格,否则会和其他参数粘在一起, 而且要加在voice stack name 那一行 前面
