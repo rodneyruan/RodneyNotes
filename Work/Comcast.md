@@ -38,7 +38,7 @@ source  meta-arris-intel-gw-private/setup-environment
 cd build-arrisxb7atom-sdk72x; bitbake comcast-broadband-dev-image 
 cd ../build-arrisxb7arm-sdk72x; bitbake comcast-broadband-dev-image 
 ```
-###  build  SIPV6  image
+###  build  SIPV6 and NCS  image
 ```
 打开这两个配置文件，加入下面这行， 记得 "sipv6"前面要留空格,否则会和其他参数粘在一起, 而且要加在voice stack name 那一行 前面
 DISTRO_FEATURES_append = " sipv6 " 
@@ -50,14 +50,49 @@ XB7
 XB6
 ./meta-rdk-oem-arris-intel-gw-xb6/meta-arrisxb6-arm/conf/machine/arrisxb6p2arm-sdk72x.conf
 ./meta-rdk-oem-arris-intel-gw-xb6/meta-arrisxb6-atom/conf/machine/arrisxb6p2atom-sdk72x.conf
+```
 
-用这个sed 命令直接可以插入一行：
+#### 用这个sed 命令直接可以插入一行：
+
+```
 sed -e '/enable_aqm/aDISTRO_FEATURES_append = \" sipv6 \"' ./meta-rdk-oem-arris-intel-gw-xb6/meta-arrisxb7-arm/conf/machine/arrisxb7arm-sdk72x.conf -i
-sed -e '/enable_aqm/aDISTRO_FEATURES_append = \" sipv6 \"' ./meta-rdk-oem-arris-intel-gw-xb6/meta-arrisxb7-atom/conf/machine/arrisxb7atom-sdk72x.conf -i
+sed -e '/enable_aqm/aDISTRO_FEATURES_append = \" sipv6 \"'  ./meta-rdk-oem-arris-intel-gw-xb6/meta-arrisxb7-atom/conf/machine/arrisxb7atom-sdk72x.conf -i
 
-sed -e '/enable_aqm/aDISTRO_FEATURES_append = \" sipv6 \"' ./meta-rdk-oem-arris-intel-gw-xb6/meta-arrisxb6-arm/conf/machine/arrisxb6p2arm-sdk72x.conf -i
-sed -e '/enable_aqm/aDISTRO_FEATURES_append = \" sipv6 \"' ./meta-rdk-oem-arris-intel-gw-xb6/meta-arrisxb6-atom/conf/machine/arrisxb6p2atom-sdk72x.conf -i
+sed -e '/enable_aqm/aDISTRO_FEATURES_append = \" pc15 \"' ./meta-rdk-oem-arris-intel-gw-xb6/meta-arrisxb7-arm/conf/machine/arrisxb7arm-sdk72x.conf -i
+sed -e '/enable_aqm/aDISTRO_FEATURES_append = \" pc15 \"'  ./meta-rdk-oem-arris-intel-gw-xb6/meta-arrisxb7-atom/conf/machine/arrisxb7atom-sdk72x.conf -i
+```
+
+
+### XB6
+#### Create a XB6 workspace
+```
+repo init -u ssh://gerrit.teamccp.com:29418/rdk/yocto_oe/manifests/arris-intel-manifest -b 23Q4_sprint -m arrisxb6p2-sdk72x.xml --repo-url=ssh://gerrit.teamccp.com:29418/rdk/tools/git-repo --repo-branch stable --no-repo-verify
+JOB_NAME=local /export/rruan/repo sync --verify  -j 24
+
+git clone ssh://rruan@ttmgerrit.arrisi.com:29418/TTM/meta-arris-intel-gw-private -b xb7 meta-arris-intel-gw-private
+git clone ssh://rruan@ttmgerrit.arrisi.com:29418/TTM/puma7/arris-source_private -b xb7 arris-source_private
+git clone ssh://rruan@ttmgerrit.arrisi.com:29418/TTM/arris-secure-login -b xb7 arris-secure-login
+mkdir arris-iot && cd arris-iot && git clone ssh://rruan@ttmgerrit.arrisi.com:29418/TTM/arris-iot -b master arris-iot && cd ..
+
+ln -s /export/rruan/yocto-downloads/ downloads
+```
+
+#### Merge needed fix for xb7 STIR/SHAKEN MXL's patch, RR-SR-recvonly-issue
+```
+cd arris-source_private
+ git cherry-pick 6d4ca53c1820cf46f27a7079271bcdd0901c9609
+ git cherry-pick 4dcbedf24b60ae1aabd3f18f54ffa5fb8536f450
+ git cherry-pick 63830149c16441cefe84ae19810267aa3db9e318
+cd ..
+```
+
+#### Build SIPv6 or NCS
+```
+
+sed -e '/enable_aqm/aDISTRO_FEATURES_append = \" sipv6 \"' ./meta-rdk-oem-arris-intel-gw-xb6/meta-arrisxb7-arm/conf/machine/arrisxb7arm-sdk72x.conf -i
+sed -e '/enable_aqm/aDISTRO_FEATURES_append = \" sipv6 \"'  ./meta-rdk-oem-arris-intel-gw-xb6/meta-arrisxb7-atom/conf/machine/arrisxb7atom-sdk72x.conf -i
 
 sed -e '/enable_aqm/aDISTRO_FEATURES_append = \" pc15 \"' ./meta-rdk-oem-arris-intel-gw-xb6/meta-arrisxb6-arm/conf/machine/arrisxb6p2arm-sdk72x.conf -i
-sed -e '/enable_aqm/aDISTRO_FEATURES_append = \" pc15 \"' ./meta-rdk-oem-arris-intel-gw-xb6/meta-arrisxb6-atom/conf/machine/arrisxb6p2atom-sdk72x.conf -i
+sed -e '/enable_aqm/aDISTRO_FEATURES_append = \" pc15 \"'  ./meta-rdk-oem-arris-intel-gw-xb6/meta-arrisxb6-atom/conf/machine/arrisxb6p2atom-sdk72x.conf -i
+
 ```
