@@ -85,7 +85,17 @@ cd arris-source_private
  git cherry-pick 63830149c16441cefe84ae19810267aa3db9e318
 cd ..
 ```
+#### Build image 
+```
+MACHINE=arrisxb6p2-sdk72x; source meta-arris-intel-gw-private/setup-environment 
+ 
+cd build-arrisxb6p2atom-sdk72x; bitbake comcast-broadband-dev-image 
+cd build-arrisxb6p2arm-sdk72x; bitbake comcast-broadband-dev-image 
 
+MACHINE=arrisxb6p2-sdk72x; source meta-arris-intel-gw-private/setup-environment sipv6
+cd build-arrisxb6p2atom-sdk72x-sipv6; bitbake comcast-broadband-dev-image 
+cd build-arrisxb6p2arm-sdk72x-sipv6; bitbake comcast-broadband-dev-image 
+```
 #### Build SIPv6 or NCS
 ```
 
