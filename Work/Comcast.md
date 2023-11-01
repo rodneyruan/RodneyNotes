@@ -173,5 +173,22 @@ Artifact ID for NCS
 arris-ipk-ncs-sdk7.2
 ```
 
+#### repo upload 
+/export/rruan/repo upload --cbr meta-rdk-oem-arris-intel-gw-xb6
+```
+如果遇到报错：AttributeError: Values instance has no attribute 'validate_certs'
+修改这个PYTHON 脚本再执行upload：
+vi .repo/repo/subcmds/upload.py     
+379 行
+         branch.UploadForReview(people,
+                                auto_topic=opt.auto_topic,
+                                draft=opt.draft,
+                                private=opt.private,
+                                notify=None if opt.notify else 'NONE',
+                                wip=opt.wip,
+                                dest_branch=destination,
+                                validate_certs=True, <-----改成True
+                                push_options=opt.push_options)
 
+```
 
