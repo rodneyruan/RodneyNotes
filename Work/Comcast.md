@@ -120,11 +120,11 @@ meta-arrisxb6-common/conf/ipk_versions.txt
 #### Website
 ```
 https://partners.artifactory.comcast.com/ui/packages
-Find the artifacts: cscope_xb7/components/dunfell-ipks/cscope-ipk-sip
-Select Deploy as Maven Artifacts
+Select Deploy, then select Deploy as Maven Artifacts
 ```
-#### XB7
-Group ID  
+#### XB7  
+Find the artifacts: cscope_xb7/components/dunfell-ipks/cscope-ipk-sip   
+Group ID   
 ```
 components.dunfell-ipks
 ```
@@ -140,3 +140,23 @@ Artifact ID for NCS
 ```
 cscope-ipk-ncs
 ```
+
+#### XB6
+Find the artifacts: arris_xb6/components/dunfell-ipks/cscope-ipk-sip   
+Group ID   
+```
+components.dunfell-ipks
+```
+Artifact ID for PC20 
+```
+arris-ipk-sdk7.2
+```
+Artifact ID for SIPV6 
+```
+arris-ipk-sip-sdk7.2
+```
+Artifact ID for NCS 
+```
+arris-ipk-ncs-sdk7.2
+```
+
