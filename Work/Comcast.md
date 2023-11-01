@@ -106,3 +106,14 @@ sed -e '/enable_aqm/aDISTRO_FEATURES_append = \" pc15 \"' ./meta-rdk-oem-arris-i
 sed -e '/enable_aqm/aDISTRO_FEATURES_append = \" pc15 \"'  ./meta-rdk-oem-arris-intel-gw-xb6/meta-arrisxb6-atom/conf/machine/arrisxb6p2atom-sdk72x.conf -i
 
 ```
+
+
+### Submit to Comcast
+```
+cd meta-rdk-oem-arris-intel-gw-xb6
+meta-arrisxb7-common/conf/arris-config.inc
+meta-arrisxb7-common/conf/ipk_versions.txt
+meta-arrisxb6-common/conf/arris-config.inc
+meta-arrisxb6-common/conf/ipk_versions.txt
+```
+
