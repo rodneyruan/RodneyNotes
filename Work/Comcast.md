@@ -173,7 +173,7 @@ Artifact ID for NCS
 arris-ipk-ncs-sdk7.2
 ```
 
-#### repo upload 
+###  repo upload 
 /export/rruan/repo upload --cbr meta-rdk-oem-arris-intel-gw-xb6
 ```
 如果遇到报错：AttributeError: Values instance has no attribute 'validate_certs'
@@ -192,3 +192,16 @@ vi .repo/repo/subcmds/upload.py
 
 ```
 
+### Build Images on Jenkins
+```
+6 在jenkins build image
+https://jenkins.ccp.xcal.tv/jenkins/job/ARRISXB6-Yocto-Build/
+https://jenkins.ccp.xcal.tv/jenkins/job/COMMSCOPEXB7-Yocto-Build
+GERRIT_PATCH_SET 这里选择patchset
+rdk/yocto_oe/layers/meta-rdk-oem-arris-intel-gw-xb6-sdk7.2x 766631/2
+
+rdk/yocto_oe/layers/meta-rdk-oem-arris-intel-gw-xb6-sdk7.2x 793278/2
+rdk/yocto_oe/layers/meta-rdk-oem-arris-intel-gw-xb6-sdk7.2x 762963/1
+ signed的load，在jenkins上看不到，要去下面的网站找：
+https://rdkportal.ccp.xcal.tv/builds?image_name=TG4482SV6_DEV_6.0_p1b_20230516073352sdy*
+```
