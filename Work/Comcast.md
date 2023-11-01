@@ -116,6 +116,19 @@ meta-arrisxb7-common/conf/ipk_versions.txt
 meta-arrisxb6-common/conf/arris-config.inc
 meta-arrisxb6-common/conf/ipk_versions.txt
 ```
+### Commit message
+```
+CMXB7-5101 MTA did not obtain IP during WAN mode transition from EWAN to Docsis
+
+Reason for change: CMXB7-xxxx MTA did not obtain IP during WAN mode transition from EWAN to Docsis
+Test Procedure: 
+
+Verified that Basic call worked fine.
+Risks: None
+
+Signed-off-by: Rodney Ruan <Rodney.Ruan@commscope.com>
+```
+
 ### Upload IPK files to artifactory
 #### Website
 ```
@@ -159,4 +172,6 @@ Artifact ID for NCS
 ```
 arris-ipk-ncs-sdk7.2
 ```
+
+
 
