@@ -108,7 +108,7 @@ sed -e '/enable_aqm/aDISTRO_FEATURES_append = \" pc15 \"'  ./meta-rdk-oem-arris-
 ```
 
 
-### Submit to Comcast
+### Edit IPK version for Comcast build
 ```
 cd meta-rdk-oem-arris-intel-gw-xb6
 meta-arrisxb7-common/conf/arris-config.inc
@@ -116,4 +116,27 @@ meta-arrisxb7-common/conf/ipk_versions.txt
 meta-arrisxb6-common/conf/arris-config.inc
 meta-arrisxb6-common/conf/ipk_versions.txt
 ```
-
+### Upload IPK files to artifactory
+#### Website
+```
+https://partners.artifactory.comcast.com/ui/packages
+Find the artifacts: cscope_xb7/components/dunfell-ipks/cscope-ipk-sip
+Select Deploy as Maven Artifacts
+```
+#### XB7
+Group ID  
+```
+components.dunfell-ipks
+```
+Artifact ID for PC20 
+```
+cscope-ipk-pc20
+```
+Artifact ID for SIPV6 
+```
+cscope-ipk-sip
+```
+Artifact ID for NCS 
+```
+cscope-ipk-ncs
+```
