@@ -1,8 +1,9 @@
 ## Table of Contents
 
 - [Section XB7](#xb7)
+- - [Build Comcast Image](#build-comcast-image)
 - [Section XB6](#section-xb6)
-- [Build Comcast Image](#build-comcast-image)
+
 ## XB7
 #### Create a XB7 workspace
 ```
