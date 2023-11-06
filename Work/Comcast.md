@@ -1,3 +1,5 @@
+[XB7](XB7)  
+[XB6](XB6)
 ### XB7
 #### Create a XB7 workspace
 ```
