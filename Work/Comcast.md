@@ -16,7 +16,7 @@ mkdir arris-iot && cd arris-iot && git clone ssh://rruan@ttmgerrit.arrisi.com:29
 cd arris-source_private
  git cherry-pick 6d4ca53c1820cf46f27a7079271bcdd0901c9609
  git cherry-pick 4dcbedf24b60ae1aabd3f18f54ffa5fb8536f450
- git cherry-pick 63830149c16441cefe84ae19810267aa3db9e318
+  
 cd ..
 ```
 #### roll back SDK7.3.5
