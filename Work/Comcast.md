@@ -1,31 +1,29 @@
 ## Table of Contents
 
 - [Section XB7](#xb7)
+- -  [Download XB7 code](download-xb7-code)
 - - [Build Comcast Image](#build-comcast-image)
 - [Section XB6](#section-xb6)
 
 ## XB7
-#### Create a XB7 workspace
+### Download XB7 Code
 ```
 repo init -u ssh://gerrit.teamccp.com:29418/rdk/yocto_oe/manifests/arris-intel-manifest -b 23Q4_sprint -m arrisxb7-sdk72x.xml --repo-url=ssh://gerrit.teamccp.com:29418/rdk/tools/git-repo --repo-branch master --no-repo-verify -g all
-repo sync --verify 
+JOB_NAME=local  repo sync --verify  -j 24
 git clone ssh://rruan@ttmgerrit.arrisi.com:29418/TTM/meta-arris-intel-gw-private -b xb7 meta-arris-intel-gw-private
 git clone ssh://rruan@ttmgerrit.arrisi.com:29418/TTM/puma7/arris-source_private -b xb7 arris-source_private
 git clone ssh://rruan@ttmgerrit.arrisi.com:29418/TTM/arris-secure-login -b xb7 arris-secure-login
 mkdir arris-iot && cd arris-iot && git clone ssh://rruan@ttmgerrit.arrisi.com:29418/TTM/arris-iot -b master arris-iot && cd ..
-
 ```
 
-
-#### Merge needed fix for xb7 STIR/SHAKEN MXL's patch, RR-SR-recvonly-issue
+#### Merge XB7 Arris Changes
 ```
 cd arris-source_private
  git cherry-pick 6d4ca53c1820cf46f27a7079271bcdd0901c9609
  git cherry-pick 4dcbedf24b60ae1aabd3f18f54ffa5fb8536f450
-  
 cd ..
 ```
-#### roll back SDK7.3.5
+#### Roll back SDK7.3.5
 ```
 cd arris-source_private
 git fetch http://rruan@ttmgerrit.arrisi.com/a/TTM/puma7/arris-source_private refs/changes/52/9952/2 && git cherry-pick FETCH_HEAD
@@ -37,7 +35,7 @@ cd ..
  repo start contrib/bp-rruan335/INTCS-620 meta-rdk-oem-arris-intel-gw-xb6
 ```
 
-### Build Image
+### Build XB7 PrivateImage
 ```
 MACHINE=arrisxb7-sdk72x
 source  meta-arris-intel-gw-private/setup-environment 
