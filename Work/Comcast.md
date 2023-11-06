@@ -2,7 +2,7 @@
 
 - [Section XB7](#xb7)
 - [Section XB6](#section-xb6)
-- [Build Comcast Image] (#build-comcast-image)
+- [Build Comcast Image](#build-comcast-image)
 ## XB7
 #### Create a XB7 workspace
 ```
