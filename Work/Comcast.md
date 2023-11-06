@@ -38,7 +38,7 @@ source  meta-arris-intel-gw-private/setup-environment
 cd build-arrisxb7atom-sdk72x; bitbake comcast-broadband-dev-image 
 cd ../build-arrisxb7arm-sdk72x; bitbake comcast-broadband-dev-image 
 ```
-###  build  SIPV6 and NCS  image
+####  build  SIPV6 and NCS  image
 ```
 打开这两个配置文件，加入下面这行， 记得 "sipv6"前面要留空格,否则会和其他参数粘在一起, 而且要加在voice stack name 那一行 前面
 DISTRO_FEATURES_append = " sipv6 " 
@@ -61,7 +61,22 @@ sed -e '/enable_aqm/aDISTRO_FEATURES_append = \" sipv6 \"'  ./meta-rdk-oem-arris
 sed -e '/enable_aqm/aDISTRO_FEATURES_append = \" pc15 \"' ./meta-rdk-oem-arris-intel-gw-xb6/meta-arrisxb7-arm/conf/machine/arrisxb7arm-sdk72x.conf -i
 sed -e '/enable_aqm/aDISTRO_FEATURES_append = \" pc15 \"'  ./meta-rdk-oem-arris-intel-gw-xb6/meta-arrisxb7-atom/conf/machine/arrisxb7atom-sdk72x.conf -i
 ```
+#### Build Comcast Image
+```
+For Comcast image:
+MACHINE=arrisxb7atom-sdk72x source meta-rdk/setup-environment 
+bitbake comcast-broadband-dev-image 
 
+cd .. 
+mkdir -p tmp/deploy/images ; cd tmp/deploy/images 
+
+ln -s ../../../../build-arrisxb7atom-sdk72x/tmp/deploy/images/arrisxb7atom-sdk72x/ arrisxb7atom-sdk72x 
+
+cd ../../.. 
+MACHINE=arrisxb7arm-sdk72x source meta-rdk/setup-environment 
+bitbake comcast-broadband-dev-image 
+
+```
 
 ### XB6
 #### Create a XB6 workspace
