@@ -1,6 +1,47 @@
-[XB7](XB7)  
-[XB6](XB6)
-### XB7
+## Table of Contents
+
+- [Section 1 XB7](#xb7)
+- [Section 2 XB6](#session-xb6)
+- [Section 3](#section-3)
+
+## Section 1
+This is the content of Section 1.
+
+## Section 2
+This is the content of Section 2.
+```
+repo init -u ssh://gerrit.teamccp.com:29418/rdk/yocto_oe/manifests/arris-intel-manifest -b 23Q4_sprint -m arrisxb7-sdk72x.xml --repo-url=ssh://gerrit.teamccp.com:29418/rdk/tools/git-repo --repo-branch master --no-repo-verify -g all
+repo sync --verify 
+git clone ssh://rruan@ttmgerrit.arrisi.com:29418/TTM/meta-arris-intel-gw-private -b xb7 meta-arris-intel-gw-private
+git clone ssh://rruan@ttmgerrit.arrisi.com:29418/TTM/puma7/arris-source_private -b xb7 arris-source_private
+git clone ssh://rruan@ttmgerrit.arrisi.com:29418/TTM/arris-secure-login -b xb7 arris-secure-login
+mkdir arris-iot && cd arris-iot && git clone ssh://rruan@ttmgerrit.arrisi.com:29418/TTM/arris-iot -b master arris-iot && cd ..
+
+```
+```
+repo init -u ssh://gerrit.teamccp.com:29418/rdk/yocto_oe/manifests/arris-intel-manifest -b 23Q4_sprint -m arrisxb7-sdk72x.xml --repo-url=ssh://gerrit.teamccp.com:29418/rdk/tools/git-repo --repo-branch master --no-repo-verify -g all
+repo sync --verify 
+git clone ssh://rruan@ttmgerrit.arrisi.com:29418/TTM/meta-arris-intel-gw-private -b xb7 meta-arris-intel-gw-private
+git clone ssh://rruan@ttmgerrit.arrisi.com:29418/TTM/puma7/arris-source_private -b xb7 arris-source_private
+git clone ssh://rruan@ttmgerrit.arrisi.com:29418/TTM/arris-secure-login -b xb7 arris-secure-login
+mkdir arris-iot && cd arris-iot && git clone ssh://rruan@ttmgerrit.arrisi.com:29418/TTM/arris-iot -b master arris-iot && cd ..
+
+```
+```
+repo init -u ssh://gerrit.teamccp.com:29418/rdk/yocto_oe/manifests/arris-intel-manifest -b 23Q4_sprint -m arrisxb7-sdk72x.xml --repo-url=ssh://gerrit.teamccp.com:29418/rdk/tools/git-repo --repo-branch master --no-repo-verify -g all
+repo sync --verify 
+git clone ssh://rruan@ttmgerrit.arrisi.com:29418/TTM/meta-arris-intel-gw-private -b xb7 meta-arris-intel-gw-private
+git clone ssh://rruan@ttmgerrit.arrisi.com:29418/TTM/puma7/arris-source_private -b xb7 arris-source_private
+git clone ssh://rruan@ttmgerrit.arrisi.com:29418/TTM/arris-secure-login -b xb7 arris-secure-login
+mkdir arris-iot && cd arris-iot && git clone ssh://rruan@ttmgerrit.arrisi.com:29418/TTM/arris-iot -b master arris-iot && cd ..
+
+```
+
+## Section 3
+This is the content of Section 3.
+
+
+## XB7
 #### Create a XB7 workspace
 ```
 repo init -u ssh://gerrit.teamccp.com:29418/rdk/yocto_oe/manifests/arris-intel-manifest -b 23Q4_sprint -m arrisxb7-sdk72x.xml --repo-url=ssh://gerrit.teamccp.com:29418/rdk/tools/git-repo --repo-branch master --no-repo-verify -g all
@@ -80,7 +121,7 @@ bitbake comcast-broadband-dev-image
 
 ```
 
-### XB6
+## Session XB6
 #### Create a XB6 workspace
 ```
 repo init -u ssh://gerrit.teamccp.com:29418/rdk/yocto_oe/manifests/arris-intel-manifest -b 23Q4_sprint -m arrisxb6p2-sdk72x.xml --repo-url=ssh://gerrit.teamccp.com:29418/rdk/tools/git-repo --repo-branch stable --no-repo-verify
