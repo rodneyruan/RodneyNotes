@@ -4,7 +4,8 @@
 - -  [Download XB7 code](download-xb7-code)
 - - [Build Comcast Image](#build-comcast-image)
 - [Section XB6](#section-xb6)
-
+-  [Common Tips](#common-tips)
+- - [Zilker Problem](#zilker-problem)
 ## XB7
 ### Download XB7 Code
 ```
@@ -223,4 +224,13 @@ rdk/yocto_oe/layers/meta-rdk-oem-arris-intel-gw-xb6-sdk7.2x 793278/2
 rdk/yocto_oe/layers/meta-rdk-oem-arris-intel-gw-xb6-sdk7.2x 762963/1
  signed的load，在jenkins上看不到，要去下面的网站找：
 https://rdkportal.ccp.xcal.tv/builds?image_name=TG4482SV6_DEV_6.0_p1b_20230516073352sdy*
+```
+## Common Tips
+### Zilker Problem
+
+If you encounter compile problem with Zilker, cherry pick this patch   
+https://gerrit.teamccp.com/#/c/760929/
+```
+cd meta-rdk-comcast-broadband
+git fetch https://bp-rruan335@gerrit.teamccp.com/a/rdk/yocto_oe/layers/meta-rdk-comcast-broadband refs/changes/29/760929/4 && git cherry-pick FETCH_HEAD
 ```
