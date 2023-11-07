@@ -6,6 +6,7 @@
 - [Section XB6](#section-xb6)
 - [Common Tips](#common-tips)
   -  [repo start](#repo-start)
+  -  [repo upload](#repo-upload)
   -  [UCF Format](#ucf-format)
   -  [Zilker Problem](#zilker-problem)
   -  [Cherry-pick Arris Private Changes](#cherry-pick-arris-private-changes)
@@ -185,24 +186,7 @@ Artifact ID for NCS
 arris-ipk-ncs-sdk7.2
 ```
 
-###  repo upload 
-/export/rruan/repo upload --cbr meta-rdk-oem-arris-intel-gw-xb6
-```
-如果遇到报错：AttributeError: Values instance has no attribute 'validate_certs'
-修改这个PYTHON 脚本再执行upload：
-vi .repo/repo/subcmds/upload.py     
-379 行
-         branch.UploadForReview(people,
-                                auto_topic=opt.auto_topic,
-                                draft=opt.draft,
-                                private=opt.private,
-                                notify=None if opt.notify else 'NONE',
-                                wip=opt.wip,
-                                dest_branch=destination,
-                                validate_certs=True, <-----改成True
-                                push_options=opt.push_options)
 
-```
 
 ### Build Images on Jenkins
 ```
@@ -221,6 +205,24 @@ https://rdkportal.ccp.xcal.tv/builds?image_name=TG4482SV6_DEV_6.0_p1b_2023051607
 ### repo start 
 ```
  repo start contrib/bp-rruan335/INTCS-620 meta-rdk-oem-arris-intel-gw-xb6
+```
+### repo upload 
+/export/rruan/repo upload --cbr meta-rdk-oem-arris-intel-gw-xb6
+```
+If you see AttributeError: Values instance has no attribute 'validate_certs'
+Modify this python script:
+vi .repo/repo/subcmds/upload.py     
+379 行
+         branch.UploadForReview(people,
+                                auto_topic=opt.auto_topic,
+                                draft=opt.draft,
+                                private=opt.private,
+                                notify=None if opt.notify else 'NONE',
+                                wip=opt.wip,
+                                dest_branch=destination,
+                                validate_certs=True, <-----改成True
+                                push_options=opt.push_options)
+
 ```
 ### UCF Format
 ```
