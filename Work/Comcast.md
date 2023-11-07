@@ -6,11 +6,11 @@
 - [Section XB6](#section-xb6)
 -  [Common Tips](#common-tips)
 -  
-  - [repo start](#repo-start)
+  -  [repo start](#repo-start)
   - 
-  - [UCF Format](#ucf-format)
-  - [Zilker Problem](#zilker-problem)
-  - [Cherry-pick Arris Private Changes](#cherry-pick-arris-private-changes)
+  -  [UCF Format](#ucf-format)
+  -  [Zilker Problem](#zilker-problem)
+  -  [Cherry-pick Arris Private Changes](#cherry-pick-arris-private-changes)
 ## XB7
 ### Download XB7 Code
 ```
