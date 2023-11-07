@@ -1,14 +1,14 @@
 ## Table of Contents
 
 - [Section XB7](#xb7)
-- -  [Download XB7 code](download-xb7-code)
-- - [Build Comcast Image](#build-comcast-image)
+  -  [Download XB7 code](download-xb7-code)
+  - [Build Comcast Image](#build-comcast-image)
 - [Section XB6](#section-xb6)
 -  [Common Tips](#common-tips)
-- - [repo start](#repo-start)
+  - [repo start](#repo-start)
   - [UCF Format](#ucf-format)
-- - [Zilker Problem](#zilker-problem)
-- - [Cherry-pick Arris Private Changes](#cherry-pick-arris-private-changes)
+  - [Zilker Problem](#zilker-problem)
+  - [Cherry-pick Arris Private Changes](#cherry-pick-arris-private-changes)
 ## XB7
 ### Download XB7 Code
 ```
@@ -223,17 +223,15 @@ https://rdkportal.ccp.xcal.tv/builds?image_name=TG4482SV6_DEV_6.0_p1b_2023051607
  repo start contrib/bp-rruan335/INTCS-620 meta-rdk-oem-arris-intel-gw-xb6
 ```
 ### UCF Format
-
-INTCS-XXX [5.15][Field] One way audio blah blah 
+```
+INTCS-XXX [5.15][Field] One way audio blah blah
 
 Reason for change: INTCS-XXX [5.15][Field] One way audio blah blah .
 Test Procedure:
-
 Verified that one way audio issue did not happen again.
 Risks: None
-
 Signed-off-by: Rodney Ruan <Rodney.Ruan@commscope.com>
-
+```
 ### Cherry-pick Arris Private Changes
 ```
 cd arris-source_private
