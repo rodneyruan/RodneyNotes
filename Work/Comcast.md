@@ -5,7 +5,7 @@
 - - [Build Comcast Image](#build-comcast-image)
 - [Section XB6](#section-xb6)
 -  [Common Tips](#common-tips)
-- - 
+- - [repo start](#repo-start)
 - - [Zilker Problem](#zilker-problem)
 - - [Cherry-pick Arris Private Changes](#cherry-pick-arris-private-changes)
 ## XB7
@@ -25,11 +25,6 @@ mkdir arris-iot && cd arris-iot && git clone ssh://rruan@ttmgerrit.arrisi.com:29
 cd arris-source_private
 git fetch http://rruan@ttmgerrit.arrisi.com/a/TTM/puma7/arris-source_private refs/changes/52/9952/2 && git cherry-pick FETCH_HEAD
 cd ..
-```
-
-#### repo start 
-```
- repo start contrib/bp-rruan335/INTCS-620 meta-rdk-oem-arris-intel-gw-xb6
 ```
 
 ### Build XB7 PrivateImage
@@ -222,6 +217,10 @@ rdk/yocto_oe/layers/meta-rdk-oem-arris-intel-gw-xb6-sdk7.2x 762963/1
 https://rdkportal.ccp.xcal.tv/builds?image_name=TG4482SV6_DEV_6.0_p1b_20230516073352sdy*
 ```
 ## Common Tips
+### repo start 
+```
+ repo start contrib/bp-rruan335/INTCS-620 meta-rdk-oem-arris-intel-gw-xb6
+```
 ### Cherry-pick Arris Private Changes
 ```
 cd arris-source_private
