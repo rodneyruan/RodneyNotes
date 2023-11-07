@@ -4,7 +4,7 @@
   -  [Download XB7 code](download-xb7-code)
   - [Build Comcast Image](#build-comcast-image)
 - [Section XB6](#section-xb6)
--  [Common Tips](#common-tips)
+- [Common Tips](#common-tips)
   -  [repo start](#repo-start)
   -  [UCF Format](#ucf-format)
   -  [Zilker Problem](#zilker-problem)
