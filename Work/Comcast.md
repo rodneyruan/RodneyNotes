@@ -5,7 +5,9 @@
 - - [Build Comcast Image](#build-comcast-image)
 - [Section XB6](#section-xb6)
 -  [Common Tips](#common-tips)
+- - 
 - - [Zilker Problem](#zilker-problem)
+- - [Cherry-pick Arris Private Changes](#cherry-pick-arris-private-changes)
 ## XB7
 ### Download XB7 Code
 ```
@@ -17,13 +19,7 @@ git clone ssh://rruan@ttmgerrit.arrisi.com:29418/TTM/arris-secure-login -b xb7 a
 mkdir arris-iot && cd arris-iot && git clone ssh://rruan@ttmgerrit.arrisi.com:29418/TTM/arris-iot -b master arris-iot && cd ..
 ```
 
-#### Merge XB7 Arris Changes
-```
-cd arris-source_private
- git cherry-pick 6d4ca53c1820cf46f27a7079271bcdd0901c9609
- git cherry-pick 4dcbedf24b60ae1aabd3f18f54ffa5fb8536f450
-cd ..
-```
+
 #### Roll back SDK7.3.5
 ```
 cd arris-source_private
@@ -226,6 +222,14 @@ rdk/yocto_oe/layers/meta-rdk-oem-arris-intel-gw-xb6-sdk7.2x 762963/1
 https://rdkportal.ccp.xcal.tv/builds?image_name=TG4482SV6_DEV_6.0_p1b_20230516073352sdy*
 ```
 ## Common Tips
+### Cherry-pick Arris Private Changes
+```
+cd arris-source_private
+git cherry-pick 6d4ca53c1820cf46f27a7079271bcdd0901c9609
+git cherry-pick 4dcbedf24b60ae1aabd3f18f54ffa5fb8536f450
+cd ..
+```
+
 ### Zilker Problem
 
 If you encounter compile problem with Zilker, cherry pick this patch   
