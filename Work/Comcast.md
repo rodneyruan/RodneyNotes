@@ -95,7 +95,7 @@ ln -s /export/rruan/yocto-downloads/ downloads
 cd arris-source_private
  git cherry-pick 6d4ca53c1820cf46f27a7079271bcdd0901c9609
  git cherry-pick 4dcbedf24b60ae1aabd3f18f54ffa5fb8536f450
- git cherry-pick 63830149c16441cefe84ae19810267aa3db9e318
+ git cherry-pick 027d6f46c48b05f0446d0736261cef2ea05ff614
 cd ..
 ```
 #### Build image 
@@ -237,8 +237,10 @@ Signed-off-by: Rodney Ruan <Rodney.Ruan@commscope.com>
 ### Cherry-pick Arris Private Changes
 ```
 cd arris-source_private
-git cherry-pick 6d4ca53c1820cf46f27a7079271bcdd0901c9609
-git cherry-pick 4dcbedf24b60ae1aabd3f18f54ffa5fb8536f450
+
+ git cherry-pick 6d4ca53c1820cf46f27a7079271bcdd0901c9609
+ git cherry-pick 4dcbedf24b60ae1aabd3f18f54ffa5fb8536f450
+ git cherry-pick 027d6f46c48b05f0446d0736261cef2ea05ff614
 cd ..
 ```
 
