@@ -29,12 +29,12 @@ git fetch http://rruan@ttmgerrit.arrisi.com/a/TTM/puma7/arris-source_private ref
 cd ..
 ```
 
-### Build XB7 PrivateImage
+### Build XB7 Private Image
 ```
 MACHINE=arrisxb7-sdk72x
-source  meta-arris-intel-gw-private/setup-environment 
-cd build-arrisxb7atom-sdk72x; bitbake comcast-broadband-dev-image 
-cd ../build-arrisxb7arm-sdk72x; bitbake comcast-broadband-dev-image 
+source  meta-arris-intel-gw-private/setup-environment pc20
+cd build-arrisxb7atom-sdk72x-pc20; bitbake comcast-broadband-dev-image 
+cd ../build-arrisxb7arm-sdk72x-pc20; bitbake comcast-broadband-dev-image 
 ```
 ####  build  SIPV6 and NCS  image
 ```
@@ -100,10 +100,10 @@ cd ..
 ```
 #### Build image 
 ```
-MACHINE=arrisxb6p2-sdk72x; source meta-arris-intel-gw-private/setup-environment 
+MACHINE=arrisxb6p2-sdk72x; source meta-arris-intel-gw-private/setup-environment pc20
  
-cd build-arrisxb6p2atom-sdk72x; bitbake comcast-broadband-dev-image 
-cd build-arrisxb6p2arm-sdk72x; bitbake comcast-broadband-dev-image 
+cd build-arrisxb6p2atom-sdk72x-pc20; bitbake comcast-broadband-dev-image 
+cd build-arrisxb6p2arm-sdk72x-pc20; bitbake comcast-broadband-dev-image 
 
 MACHINE=arrisxb6p2-sdk72x; source meta-arris-intel-gw-private/setup-environment sipv6
 cd build-arrisxb6p2atom-sdk72x-sipv6; bitbake comcast-broadband-dev-image 
