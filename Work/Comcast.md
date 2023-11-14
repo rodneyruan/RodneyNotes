@@ -235,7 +235,7 @@ INTCS-XXX [5.15][Field] One way audio blah blah
 
 Reason for change: INTCS-XXX [5.15][Field] One way audio blah blah .
 Test Procedure:
-Verified that one way audio issue did not happen again.
+Verified that 
 Risks: None
 Signed-off-by: Rodney Ruan <Rodney.Ruan@commscope.com>
 ```
