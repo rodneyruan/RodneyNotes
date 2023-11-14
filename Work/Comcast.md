@@ -37,6 +37,18 @@ source  meta-arris-intel-gw-private/setup-environment pc20
 cd build-arrisxb7atom-sdk72x-pc20; bitbake comcast-broadband-dev-image 
 cd ../build-arrisxb7arm-sdk72x-pc20; bitbake comcast-broadband-dev-image 
 ```
+```
+MACHINE=arrisxb7-sdk72x
+source  meta-arris-intel-gw-private/setup-environment sipv6
+cd build-arrisxb7atom-sdk72x-sipv6; bitbake comcast-broadband-dev-image 
+cd ../build-arrisxb7arm-sdk72x-sipv6; bitbake comcast-broadband-dev-image 
+```
+```
+MACHINE=arrisxb7-sdk72x
+source  meta-arris-intel-gw-private/setup-environment ncs
+cd build-arrisxb7atom-sdk72x-ncs; bitbake comcast-broadband-dev-image 
+cd ../build-arrisxb7arm-sdk72x-ncs; bitbake comcast-broadband-dev-image 
+```
 ####  build  SIPV6 and NCS  image
 ```
 打开这两个配置文件，加入下面这行， 记得 "sipv6"前面要留空格,否则会和其他参数粘在一起, 而且要加在voice stack name 那一行 前面
