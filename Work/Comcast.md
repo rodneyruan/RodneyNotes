@@ -90,7 +90,6 @@ mkdir arris-iot && cd arris-iot && git clone ssh://rruan@ttmgerrit.arrisi.com:29
 ln -s /export/rruan/yocto-downloads/ downloads
 ```
 
-```
 #### Build image 
 ```
 MACHINE=arrisxb6p2-sdk72x; source meta-arris-intel-gw-private/setup-environment pc20
