@@ -2,6 +2,7 @@
 
 - [Section XB7](#xb7)
   -  [Download XB7 code](download-xb7-code)
+  -  [Build XB7 Private Image](build-xb7-private-image)
   - [Build Comcast Image](#build-comcast-image)
 - [Section XB6](#section-xb6)
 - [Common Tips](#common-tips)
