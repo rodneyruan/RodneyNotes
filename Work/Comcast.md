@@ -1,7 +1,7 @@
 ## Table of Contents
 
 - [Section XB7](#xb7)
-  -  [Create a XB7 Worksapce](#create-a-xb7-workspace)
+  -  [Create a XB7 Worksapce](#create-axb7-worksapce)
   -  [Build XB7 Private Image](#build-xb7-private-image)
   - [Build Comcast Image](#build-comcast-image)
 - [Section XB6](#section-xb6)
