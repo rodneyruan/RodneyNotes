@@ -1,7 +1,7 @@
 ## Table of Contents
 
 - [Section XB7](#xb7)
-  -  [Create a XB7 Worksapce](#create-xb7-worksapce)
+  -  [Create a XB7 Worksapce](#create-a-xb7-worksapce)
   -  [Build XB7 Private Image](#build-xb7-private-image)
   - [Build Comcast Image](#build-comcast-image)
 - [Section XB6](#section-xb6)
@@ -13,7 +13,7 @@
   -  [Zilker Problem](#zilker-problem)
   -  [Cherry-pick Arris Private Changes](#cherry-pick-arris-private-changes)
 ## XB7
-### Create XB7 Worksapce
+### Create a XB7 Worksapce
 XB7 5.15 Workspace
 ```
 repo init -u ssh://gerrit.teamccp.com:29418/rdk/yocto_oe/manifests/arris-intel-manifest -b 23Q4_sprint -m arrisxb7-sdk72x.xml --repo-url=ssh://gerrit.teamccp.com:29418/rdk/tools/git-repo --repo-branch master --no-repo-verify -g all
