@@ -13,6 +13,7 @@
   -  [Cherry-pick Arris Private Changes](#cherry-pick-arris-private-changes)
 ## XB7
 ### Download XB7 Code
+XB7 5.15 Workspace
 ```
 repo init -u ssh://gerrit.teamccp.com:29418/rdk/yocto_oe/manifests/arris-intel-manifest -b 23Q4_sprint -m arrisxb7-sdk72x.xml --repo-url=ssh://gerrit.teamccp.com:29418/rdk/tools/git-repo --repo-branch master --no-repo-verify -g all
 JOB_NAME=local  repo sync --verify  -j 24
@@ -21,7 +22,15 @@ git clone ssh://rruan@ttmgerrit.arrisi.com:29418/TTM/puma7/arris-source_private 
 git clone ssh://rruan@ttmgerrit.arrisi.com:29418/TTM/arris-secure-login -b xb7 arris-secure-login
 mkdir arris-iot && cd arris-iot && git clone ssh://rruan@ttmgerrit.arrisi.com:29418/TTM/arris-iot -b master arris-iot && cd ..
 ```
-
+XB7 4.9 workspace
+```
+repo init -u ssh://gerrit.teamccp.com:29418/rdk/yocto_oe/manifests/arris-intel-manifest -b 23Q4_sprint -m arrisxb7-sdk72x-4.9.xml --repo-url=ssh://gerrit.teamccp.com:29418/rdk/tools/git-repo --repo-branch master --no-repo-verify -g all
+JOB_NAME=local  repo sync --verify  -j 24
+git clone ssh://rruan@ttmgerrit.arrisi.com:29418/TTM/meta-arris-intel-gw-private -b xb7 meta-arris-intel-gw-private
+git clone ssh://rruan@ttmgerrit.arrisi.com:29418/TTM/puma7/arris-source_private -b xb7 arris-source_private
+git clone ssh://rruan@ttmgerrit.arrisi.com:29418/TTM/arris-secure-login -b xb7 arris-secure-login
+mkdir arris-iot && cd arris-iot && git clone ssh://rruan@ttmgerrit.arrisi.com:29418/TTM/arris-iot -b master arris-iot && cd ..
+```
 
 #### Roll back SDK7.3.5
 ```
@@ -90,6 +99,7 @@ bitbake comcast-broadband-dev-image
 ```
 
 ## Section XB6
+ - [Create a XB6 Workspace](#create-a-xb6-workspace)
 #### Create a XB6 workspace
 ```
 repo init -u ssh://gerrit.teamccp.com:29418/rdk/yocto_oe/manifests/arris-intel-manifest -b 23Q4_sprint -m arrisxb6p2-sdk72x.xml --repo-url=ssh://gerrit.teamccp.com:29418/rdk/tools/git-repo --repo-branch stable --no-repo-verify
