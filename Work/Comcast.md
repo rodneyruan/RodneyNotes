@@ -1,11 +1,11 @@
 ## Table of Contents
 
 - [Section XB7](#xb7)
-  -  [Download XB7 code](#download-xb7-code)
+  -  [Create a XB7 Worksapce](#create-a-xb7-workspace)
   -  [Build XB7 Private Image](#build-xb7-private-image)
   - [Build Comcast Image](#build-comcast-image)
 - [Section XB6](#section-xb6)
- - [Create a XB6 Workspace](#create-a-xb6-workspace)
+  -  [Create a XB6 Workspace](#create-a-xb6-workspace)
 - [Common Tips](#common-tips)
   -  [repo start](#repo-start)
   -  [repo upload](#repo-upload)
@@ -13,7 +13,7 @@
   -  [Zilker Problem](#zilker-problem)
   -  [Cherry-pick Arris Private Changes](#cherry-pick-arris-private-changes)
 ## XB7
-### Download XB7 Code
+### Create a XB7 Worksapce
 XB7 5.15 Workspace
 ```
 repo init -u ssh://gerrit.teamccp.com:29418/rdk/yocto_oe/manifests/arris-intel-manifest -b 23Q4_sprint -m arrisxb7-sdk72x.xml --repo-url=ssh://gerrit.teamccp.com:29418/rdk/tools/git-repo --repo-branch master --no-repo-verify -g all
@@ -102,6 +102,7 @@ bitbake comcast-broadband-dev-image
 ## Section XB6
 
 #### Create a XB6 workspace
+XB6 5.15 Workspace
 ```
 repo init -u ssh://gerrit.teamccp.com:29418/rdk/yocto_oe/manifests/arris-intel-manifest -b 23Q4_sprint -m arrisxb6p2-sdk72x.xml --repo-url=ssh://gerrit.teamccp.com:29418/rdk/tools/git-repo --repo-branch stable --no-repo-verify
 JOB_NAME=local  repo sync --verify  -j 24
@@ -113,7 +114,7 @@ mkdir arris-iot && cd arris-iot && git clone ssh://rruan@ttmgerrit.arrisi.com:29
 
 ln -s /export/rruan/yocto-downloads/ downloads
 ```
-#### Create XB6 49 workspace
+XB6 4.9 workspace
 ```
 repo init -u ssh://gerrit.teamccp.com:29418/rdk/yocto_oe/manifests/arris-intel-manifest -b 23Q4_sprint -m arrisxb6p2-sdk72x-4.9.xml --repo-url=ssh://gerrit.teamccp.com:29418/rdk/tools/git-repo --repo-branch stable --no-repo-verify
 JOB_NAME=local  repo sync --verify  -j 24
