@@ -5,6 +5,7 @@
   -  [Build XB7 Private Image](#build-xb7-private-image)
   - [Build Comcast Image](#build-comcast-image)
 - [Section XB6](#section-xb6)
+ - [Create a XB6 Workspace](#create-a-xb6-workspace)
 - [Common Tips](#common-tips)
   -  [repo start](#repo-start)
   -  [repo upload](#repo-upload)
@@ -99,7 +100,7 @@ bitbake comcast-broadband-dev-image
 ```
 
 ## Section XB6
- - [Create a XB6 Workspace](#create-a-xb6-workspace)
+
 #### Create a XB6 workspace
 ```
 repo init -u ssh://gerrit.teamccp.com:29418/rdk/yocto_oe/manifests/arris-intel-manifest -b 23Q4_sprint -m arrisxb6p2-sdk72x.xml --repo-url=ssh://gerrit.teamccp.com:29418/rdk/tools/git-repo --repo-branch stable --no-repo-verify
