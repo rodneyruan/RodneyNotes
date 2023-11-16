@@ -6,6 +6,8 @@
   - [Build Comcast Image](#build-comcast-image)
 - [Section XB6](#section-xb6)
   -  [Create a XB6 Workspace](#create-a-xb6-workspace)
+  -  [Build XB6 Image](#build-xb6-image)
+  -  [Build SIPv6 NCS](build-sipv6-ncs)
 - [Common Tips](#common-tips)
   -  [repo start](#repo-start)
   -  [repo upload](#repo-upload)
@@ -123,26 +125,25 @@ mkdir arris-iot && cd arris-iot && git clone ssh://rruan@ttmgerrit.arrisi.com:29
 ln -s /export/rruan/yocto-downloads/ downloads
 ```
 
-#### Build image 
+#### Build XB6 image 
 ```
 MACHINE=arrisxb6p2-sdk72x; source meta-arris-intel-gw-private/setup-environment pc20
- 
 cd build-arrisxb6p2atom-sdk72x-pc20; bitbake comcast-broadband-dev-image 
 cd build-arrisxb6p2arm-sdk72x-pc20; bitbake comcast-broadband-dev-image 
-
+```
+```
 MACHINE=arrisxb6p2-sdk72x; source meta-arris-intel-gw-private/setup-environment sipv6
 cd build-arrisxb6p2atom-sdk72x-sipv6; bitbake comcast-broadband-dev-image 
 cd build-arrisxb6p2arm-sdk72x-sipv6; bitbake comcast-broadband-dev-image 
 ```
-#### Build SIPv6 or NCS
+#### Build SIPv6 NCS
 ```
-
 sed -e '/enable_aqm/aDISTRO_FEATURES_append = \" sipv6 \"' ./meta-rdk-oem-arris-intel-gw-xb6/meta-arrisxb6-arm/conf/machine/arrisxb6p2arm-sdk72x.conf -i
 sed -e '/enable_aqm/aDISTRO_FEATURES_append = \" sipv6 \"'  ./meta-rdk-oem-arris-intel-gw-xb6/meta-arrisxb6-atom/conf/machine/arrisxb6p2atom-sdk72x.conf -i
-
+```
+```
 sed -e '/enable_aqm/aDISTRO_FEATURES_append = \" pc15 \"' ./meta-rdk-oem-arris-intel-gw-xb6/meta-arrisxb6-arm/conf/machine/arrisxb6p2arm-sdk72x.conf -i
 sed -e '/enable_aqm/aDISTRO_FEATURES_append = \" pc15 \"'  ./meta-rdk-oem-arris-intel-gw-xb6/meta-arrisxb6-atom/conf/machine/arrisxb6p2atom-sdk72x.conf -i
-
 ```
 
 
