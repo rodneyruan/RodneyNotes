@@ -7,7 +7,7 @@
 - [Section XB6](#section-xb6)
   -  [Create a XB6 Workspace](#create-a-xb6-workspace)
   -  [Build XB6 Image](#build-xb6-image)
-  -  [Build SIPv6 NCS](build-sipv6-ncs)
+  -  [Build SIPv6 NCS](#build-sipv6-ncs)
 - [Common Tips](#common-tips)
   -  [repo start](#repo-start)
   -  [repo upload](#repo-upload)
