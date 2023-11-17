@@ -1,0 +1,23 @@
+@echo off
+rem Set the FTP server address, username, and password
+set FTPSERVER=10.89.255.148
+set FTPUSER=ts
+set FTPPASS=ts
+
+rem Create a temporary file with FTP commands
+echo open %FTPSERVER% > ftpcmd.txt
+echo %FTPUSER%>> ftpcmd.txt
+echo %FTPPASS%>> ftpcmd.txt
+echo binary >> ftpcmd.txt
+
+rem Loop through the 5 files and append the put command for each file
+for %%f in (TG3482SV6_DEV_23Q4_sprint_20231117031503sdy_49.bin TG3482SV6_DEV_23Q4_sprint_20231117032015sdy_49.bin TG3482NCS_DEV_23Q4_sprint_20231117032214sdy_49.bin TG3482PC2_DEV_23Q4_sprint_20231117031634sdy_49.bin TG3482NCS_DEV_23Q4_sprint_20231117031552sdy_49.bin) do (
+  echo put %%f >> ftpcmd.txt
+)
+
+rem Append the quit command and run the FTP utility
+echo quit >> ftpcmd.txt
+ftp -s:ftpcmd.txt
+
+rem Delete the temporary file
+rem del ftpcmd.txt
