@@ -57,12 +57,12 @@ https://fi.woo.org/stake/
 ### 合约交互
 ```
 https://leverage.unidex.exchange/   
-No.4 8, 13 买比特币，2倍杠杆 
+ 4 8, 13 买比特币，2倍杠杆 都没有成功，返还了
 
 
 https://app.rollup.finance/#/trade
 4   long ETH 1800
-5号也搞了 5号赎回，亏了几块
+5号也搞了 已经赎回，手续费贼高，亏了几块
 
 https://app.zkdx.io/#/trade  
 ```
