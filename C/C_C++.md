@@ -41,7 +41,7 @@ void main()
     return;
 }
 ```
-### 
+### iterate over a series.
 ```
     // Handle prefixes "Green", "Blue", and "Red"
     const char *prefixes[] = {"Green", "Blue", and "Red"};
