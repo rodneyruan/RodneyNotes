@@ -28,3 +28,16 @@ int main()
 1  在c中，联合体（共用体）的数据成员都是从低地址开始存放。 
 2  若是小端模式，由低地址到高地址c.a存放为0x01 00 00 00，c.b被赋值为0x01；
 ```
+### Issue that causes Linecard issue
+It has different result on ARM and ATOM  
+```
+#include <stdio.h>
+void main()
+{
+    char a;
+    a = 0xff;
+
+    printf("%d %d\n", (a==0xff), a);
+    return;
+}
+```
