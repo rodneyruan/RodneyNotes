@@ -44,7 +44,7 @@ void main()
 ### iterate over a series.
 ```
     // Handle prefixes "Green", "Blue", and "Red"
-    const char *prefixes[] = {"Green", "Blue", and "Red"};
+    const char *prefixes[] = {"Green", "Blue",  "Red"};
     for (int i = 0; i < sizeof(prefixes) / sizeof(prefixes[0]); ++i)
     {
          ....
