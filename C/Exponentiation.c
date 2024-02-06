@@ -39,10 +39,9 @@ int len_result;
 int point_result;//how many digits on the right side of the point?
 void multiply(int* a, int len_a, int point_a,int*b,int len_b, int point_b)
 {
-   int i,j,k,temp,carry,move,len_sum;
+   int i,j,k,temp,carry,move,len_sum=0;
    int each_round[999]={0};
    int sum[999]={0};
-
 
    for(i=len_b-1;i>=0;i--)
    {
@@ -53,7 +52,7 @@ void multiply(int* a, int len_a, int point_a,int*b,int len_b, int point_b)
       {
          temp = a[j]*b[i]+carry;
          each_round[k++] = temp%10;
-         //printf("each_round[%d]=%d ",k-1,each_round[k-1]);
+//       printf("each_round[%d]=%d ",k-1,each_round[k-1]);
          carry = temp/10;
 
          if( (j==0) && (carry!=0) )
@@ -67,13 +66,13 @@ void multiply(int* a, int len_a, int point_a,int*b,int len_b, int point_b)
       carry =0;
       for(j=0;j<k;j++)
       {
-         temp = each_round[j]+sum[j+move]+carry;
-         //printf("#%d, for %d, each_round[j] =%d, sum[j+move] = %d",move,j,each_round[j],sum[j+move]);
+  ½      temp = each_round[j]+sum[j+move]+carry;
+//       printf("#%d, for %d, each_round[j] =%d, sum[j+move] = %d",move,j,each_round[j],sum[j+move]);
          sum[j+move]=temp%10;
          len_sum = j+move+1;
 
          /*Debug*/
-         /* printf("#%d, for %d, Moving %d to %d, \n",move, j, sum[j+move],j+move);*/
+//        printf("#%d, for %d, Moving %d to %d, \n",move, j, sum[j+move],j+move);
          carry = temp/10;
 
          if( (j==k-1) && ( carry != 0))
@@ -98,7 +97,7 @@ int main()
    char s[10];
    int n=0;
    int r[10];
-   int i=0,j=0,point=0;
+   int i=0,j=0,point=0,point_found=0;
    int len=0;
    while(scanf("%s%d",s,&n)!=EOF)
    {
@@ -106,12 +105,12 @@ int main()
       memset(r,0,sizeof(r));
       len=0;
       point = 0;
-
+      point_found =0;
       while(s[i]!='\0')
       {
          if( s[i] == '.')
          {
-            point = 0;
+            point_found = 1;
          //   printf("point = %d\n",point);
          }
          else if( ( s[i]>='0') && ( s[i]<='9') )
@@ -119,11 +118,12 @@ int main()
             r[len] = s[i] - '0' ;
            // printf("adding %d ",r[number_of_digits]);
             len++;
-            point++;
+            if(point_found) point++;
          }
          i++;
       }
 
+ //printf("len %d, point %d",len,point);
 
    for(i=len-1;i>=0;i--)
    {
@@ -131,7 +131,7 @@ int main()
                  break;
          if( i< (len - point))
                         break;
-         //printf("Remvoing tailing 0 @ %d ", i);
+      //   printf("Remvoing tailing 0 @ %d ", i);
          len --;
          point --;
 
@@ -155,14 +155,16 @@ int main()
                printf("\n");*/
       }
 
-
+   //   printf(": len %d",len_result);
       for(i=0;i<len_result;i++)
       {
-              if ( !( (i==0) && (result[i] == 0 )))
+              if( (len_result ==1) && i ==0)
+                      printf("%d",result[i]);
+              else if ( !( (i==0) && (result[i] == 0 )))
               {
                   printf("%d",result[i]);
               }
-              if(i== len_result-point_result-1)
+              if( (point_result!= 0) && (i== len_result-point_result-1) )
                       printf(".");
       }
       printf("\n");
