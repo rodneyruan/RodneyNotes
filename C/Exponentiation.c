@@ -153,9 +153,13 @@ int main()
                printf("\n");*/
       }
 
+
       for(i=0;i<len_result;i++)
       {
-              printf("%d",result[i]);
+              if ( !( (i==0) && (result[i] == 0 )))
+              {
+                  printf("%d",result[i]);
+              }
               if(i== len_result-point_result-1)
                       printf(".");
       }
