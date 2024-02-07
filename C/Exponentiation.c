@@ -66,7 +66,7 @@ void multiply(int* a, int len_a, int point_a,int*b,int len_b, int point_b)
       carry =0;
       for(j=0;j<k;j++)
       {
-     temp = each_round[j]+sum[j+move]+carry;
+         temp = each_round[j]+sum[j+move]+carry;
 //       printf("#%d, for %d, each_round[j] =%d, sum[j+move] = %d",move,j,each_round[j],sum[j+move]);
          sum[j+move]=temp%10;
          len_sum = j+move+1;
@@ -170,6 +170,6 @@ int main()
       printf("\n");
    }
    return 0;
-}                          
+}    
                                            
 ```
