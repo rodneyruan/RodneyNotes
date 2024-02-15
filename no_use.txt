@@ -1,1 +1,171 @@
 ironfishaccount0000010v38vetjwd5k7m3z8gcjcgnwv9kk2g36yfex7erwv4uhyatpdccryg3vyfehqetwv35kue6tv4ujyw3zv4nr2wp3x3snqc34xgukyvrzv3jrjcf4xsexzefkx33ryerx8pjr2etxxp3n2v3cx9nxzdpnv4jrgc33xcurwd3cxsmkzcenxenrwcfz9s38v6t9wa9k27fz8g3rzcnpvyunjenxvdsnqcm9vvmrjdp4vgmxycmyx4jxyvf4xa3x2dnpx9jk2vmzxqekywpc8pjkzd3jxenrzd3s8qcrjvf4vg6rjdfev5ckvcn9xpjrgdf4xcmxydrzxvcnzvn9vd3xvv33xcurzc3nvcurwvrxxumkxvesxsun2vtpxask2eryxqcrjde48ycxgetyx56kgep5ygkzy6twvdhk66twvatxjethfdjhjg36ygmn2erzx43njcmrv5cnvwfnxyenye3jx43rsvm9xgckgvtyx3sk2ctpxsursc35vsckyd3nvvcx2ep5vs6ngwrzxgerydfn89nxyvp3ygkzymm4w3nk76twvatxjethfdjhjg36yf3rjvps8yekxwfsvd3kvvejx93r2ctzxenrvdrxvscngvpjvvmk2d3sx4jk2cmyxasnyefexgcxvdrxxvmnqctzv43r2etpvv6nxv3nygkzyur4vfkxjc6pv3j8yetnwv3r5gnrvvexzdryx33ngdnyvgunjv3svcuk2ep3v3nr2df489jrwepkvvmnqdpjx33njwrzxesnje33vfjrzef4xymkgwp58ycrjvfhxccrvgna2z
+
+
+
+{
+  "dns": {
+    "hosts": {
+      "domain:googleapis.cn": "googleapis.com"
+    },
+    "servers": [
+      {
+        "address": "fakedns",
+        "domains": [
+          "geosite:cn"
+        ]
+      },
+      "208.67.222.222"
+    ]
+  },
+  "fakedns": [
+    {
+      "ipPool": "198.18.0.0/15",
+      "poolSize": 10000
+    }
+  ],
+  "inbounds": [
+    {
+      "listen": "127.0.0.1",
+      "port": 10808,
+      "protocol": "socks",
+      "settings": {
+        "auth": "noauth",
+        "udp": true,
+        "userLevel": 8
+      },
+      "sniffing": {
+        "destOverride": [
+          "http",
+          "tls",
+          "fakedns"
+        ],
+        "enabled": true
+      },
+      "tag": "socks"
+    },
+    {
+      "listen": "127.0.0.1",
+      "port": 10809,
+      "protocol": "http",
+      "settings": {
+        "userLevel": 8
+      },
+      "tag": "http"
+    },
+    {
+      "listen": "127.0.0.1",
+      "port": 10853,
+      "protocol": "dokodemo-door",
+      "settings": {
+        "address": "208.67.222.222",
+        "network": "tcp,udp",
+        "port": 53
+      },
+      "tag": "dns-in"
+    }
+  ],
+  "log": {
+    "loglevel": "warning"
+  },
+  "outbounds": [
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false,
+        "xudpConcurrency": 8,
+        "xudpProxyUDP443": ""
+      },
+      "protocol": "vmess",
+      "settings": {
+        "vnext": [
+          {
+            "address": "A019.STANDARD-NODES-CHICKENFARMS.TOP",
+            "port": 443,
+            "users": [
+              {
+                "alterId": 0,
+                "encryption": "",
+                "flow": "",
+                "id": "443f9859-5b74-4b44-8dec-501c16ba10fb",
+                "level": 8,
+                "security": "auto"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "tlsSettings": {
+          "allowInsecure": true,
+          "fingerprint": "",
+          "serverName": "",
+          "show": false
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": ""
+          },
+          "path": ""
+        }
+      },
+      "tag": "proxy"
+    },
+    {
+      "protocol": "freedom",
+      "settings": {
+        "domainStrategy": "UseIP"
+      },
+      "tag": "direct"
+    },
+    {
+      "protocol": "blackhole",
+      "settings": {
+        "response": {
+          "type": "http"
+        }
+      },
+      "tag": "block"
+    },
+    {
+      "protocol": "dns",
+      "tag": "dns-out"
+    }
+  ],
+  "policy": {
+    "levels": {
+      "8": {
+        "connIdle": 300,
+        "downlinkOnly": 1,
+        "handshake": 4,
+        "uplinkOnly": 1
+      }
+    },
+    "system": {
+      "statsOutboundUplink": true,
+      "statsOutboundDownlink": true
+    }
+  },
+  "routing": {
+    "domainStrategy": "IPOnDemand",
+    "rules": [
+      {
+        "inboundTag": [
+          "dns-in"
+        ],
+        "outboundTag": "dns-out",
+        "type": "field"
+      },
+      {
+        "ip": [
+          "208.67.222.222"
+        ],
+        "outboundTag": "proxy",
+        "port": "53",
+        "type": "field"
+      }
+    ]
+  },
+  "stats": {}
+}
