@@ -21,7 +21,7 @@ BSC链就用pancake， 其他的可以用uniswap
 https://pancakeswap.finance/swap?chain=bscTestnet&outputCurrency=0xaB1a4d4f1D656d2450692D237fdD6C7f9146e814  
 
 跨链  
-
+https://portfolio.metamask.io/bridge   
 https://dev-cbridge-v2.netlify.app/97/59140/BNB  
 https://testnet.bridge.connext.network  
 https://testnetbridge.com/pools    
