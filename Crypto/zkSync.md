@@ -1,3 +1,7 @@
+### 查询排名
+https://www.sybilstat.com/search/2785e66d-a5c1-4b47-b232-253ee419253e
+https://nftcopilot.com/zksync-rank-check
+
 ###  官网
 Lite 主网 https://lite.zksync.io/  
 Era 主网 https://portal.zksync.io  
