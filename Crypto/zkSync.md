@@ -1,7 +1,15 @@
 ### 查询排名
+```
 https://www.sybilstat.com/search/2785e66d-a5c1-4b47-b232-253ee419253e
 https://nftcopilot.com/zksync-rank-check
+```
+```
+这个网站查询排名，跟交易次数，最好交易次数100次以上，交易金额10000以上
+我的是刷到了10万，1000USDC-USDT互刷，
+https://www.sybilstat.com/zksync
 
+https://app.mute.io/swap?inputCurrency=0x3355df6d4c9c3035724fd0e3914de96a5a83aaf4&outputCurrency=0x493257fd37edb34451f62edf8d2a0c418852ba4c
+```
 ###  官网
 Lite 主网 https://lite.zksync.io/  
 Era 主网 https://portal.zksync.io  
