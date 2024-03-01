@@ -1,3 +1,7 @@
 https://chat.claudeai.ai/ 
+
 https://openai.ehco-relay.cc/token
-这个是一个套壳的方案， 注册简单，连邮箱都不用填，注册就送100$额度使用。 ruanronXXXX/1234(XX34)
+这个是一个分享API key的方案， 注册简单，连邮箱都不用填，注册就送100$额度使用，支持GPT-4。 ruanronXXXX/1234(XX34)
+实现方式是分享API，然后连接到下面的网站进行对话，
+https://app.nextchat.dev/#/?settings={%22key%22:%22sk-yEQCdVWVdD2mBzmB900246C94e864b40B39b74FaB43128De%22,%22url%22:%22https://openai.ehco-relay.cc%22}extchat.dev/#/
+ama://set-api-key?server=https%3A%2F%2Fopenai.ehco-relay.cc&key=sk-yEQCdVWVdD2mBzmB900246C94e864b40B39b74FaB43128De
