@@ -18,3 +18,6 @@ https://izumi.finance/trade/swap
 https://app.odos.xyz/
 https://zkswap.finance/
 ```
+
+### Mint
+https://alienswap.xyz/mint/linea/0xc043bce9aF87004398181A8de46b26e63B29bf99
