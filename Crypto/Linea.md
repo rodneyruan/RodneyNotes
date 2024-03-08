@@ -30,6 +30,7 @@ https://alienswap.xyz/mint/linea/0xc043bce9aF87004398181A8de46b26e63B29bf99
 
 任务3：这个没办法老实mint吧 现在2u
 任务4：链接好钱包后直接去店check-in签到
+https://layer3.xyz/quests/linea-readon
 任务5：链接好钱包后直接发送一条消息
 任务6：直接往0xc0deb0*****6d198f984 发送任意金额
 注：这个地址是任务地址 建议正常流程走一遍 找到这个地址
