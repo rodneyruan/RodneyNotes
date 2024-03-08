@@ -25,7 +25,8 @@ https://alienswap.xyz/mint/linea/0xc043bce9aF87004398181A8de46b26e63B29bf99
 ### 第三周任务简介版(跳过下载APP直接参与的方法)
 ```
 任务1：直接在Dmail发送一封邮件
-任务2：直接去https://swap.dodoex.io/Gamic 先选以太主网，然后swap的时候选择Linea到Linea的swap swap可以完成这两小步骤
+任务2：https://layer3.xyz/quests/linea-gamic-app
+直接去https://swap.dodoex.io/Gamic 先选以太主网，然后swap的时候选择Linea到Linea的swap swap可以完成这两小步骤
 
 任务3：这个没办法老实mint吧 现在2u
 任务4：链接好钱包后直接去店check-in签到
