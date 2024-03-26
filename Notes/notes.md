@@ -61,12 +61,10 @@ https://8th-subscription-from-chickenfarmer.top/api/v1/client/subscribe?token=ca
 ```
 https://xn--mes358acgm99l.com/#/dashboard
 
-
-### 课程
-#### the crash course
-https://thecrashcourse.com/
 ```
 ```
 https://jsjc.cfd/api/v1/client/subscribe?token=ead589cc2925b11a55a320026c95b8ef
 ```
-
+### 课程
+#### the crash course
+https://thecrashcourse.com/
