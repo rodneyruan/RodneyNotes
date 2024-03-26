@@ -65,6 +65,6 @@ https://xn--mes358acgm99l.com/#/dashboard
 ```
 https://jsjc.cfd/api/v1/client/subscribe?token=ead589cc2925b11a55a320026c95b8ef
 ```
-### 课程
-#### the crash course
-https://thecrashcourse.com/
+### PDF 处理 Stirling-PDF
+https://github.com/Stirling-Tools/Stirling-PDF?tab=readme-ov-file
+
