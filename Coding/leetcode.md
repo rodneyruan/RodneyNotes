@@ -2,6 +2,7 @@
 - [Move Zeros](#move-zeros)
 - [Remove Duplicates From Sorted Array](#remove-duplicates-from-sorted-array)
 - [Climbing Stairs](#climbing-stairs)
+- [Palindrome Number](#palindrome-number)
 # Move Zeros
 ## Problem Description
 ```
@@ -109,6 +110,20 @@ int main() {
     printf("The number of distinct ways to climb %d stairs is: %d\n", n, result);
     return 0;
 }
+```
+# Palindrome Number
+```
+class Solution:
+    def isPalindrome(self, x: int) -> bool:
+        s=str(x)
+        left=0
+        right=len(s)-1
+        while(left<right):
+            if(s[left]!=s[right]):
+                return False
+            left+=1
+            right-=1
+        return True
 ```
 # Blog
 https://blog.algomooc.com/LeetCode
