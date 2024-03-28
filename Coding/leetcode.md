@@ -1,3 +1,6 @@
+## Table of Contents
+- [Move Zeros](#move-zeros)
+- [Remove Duplicates From Sorted Array](#remove-duplicates-from-sorted-array)
 # Move Zeros
 ## Problem Description
 Given an integer array nums, move all 0's to the end of it while maintaining the relative order of the non-zero elements.
@@ -22,8 +25,8 @@ class Solution:
         for i in range(n-count,n):
             nums[i] = 0
 ```
-### Remove Duplicates From Sorted Array
-#### Problem Description
+# Remove Duplicates From Sorted Array
+## Problem Description
 ```
 Given an integer array nums sorted in non-decreasing order, remove the duplicates in-place such that each unique element appears only once. The relative order of the elements should be kept the same. Then return the number of unique elements in nums.
 
@@ -32,7 +35,7 @@ Consider the number of unique elements of nums to be k, to get accepted, you nee
 Change the array nums such that the first k elements of nums contain the unique elements in the order they were present in nums initially. The remaining elements of nums are not important as well as the size of nums.
 Return k.
 ```
-#### Code
+## Code
 ```
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
