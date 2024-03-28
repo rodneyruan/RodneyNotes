@@ -125,5 +125,19 @@ class Solution:
             right-=1
         return True
 ```
+更高效的版本
+```
+class Solution:
+    def isPalindrome(self, x: int) -> bool:
+        if x < 0:
+            return False
+        temp = x
+        reversed = 0
+        while(temp != 0):
+            digit=temp % 10
+            temp=temp//10
+            reversed = reversed*10+digit
+        return (reversed == x)
+```
 # Blog
 https://blog.algomooc.com/LeetCode
