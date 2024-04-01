@@ -48,14 +48,14 @@ https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/QuantumultX_Profil
 #### 账号购买
 魔界
 ```
-https://mojie0201.xn--8stx8olrwkucjq3b.com/api/v1/client/subscribe?token=5a0035ee89c97cc2298c9a09883ef242
+https://mojie0201.xn--8stx8olrwkucjq3b.com/api/v1/client/subscribe?token=5aaxxx35ee89c97cc2298c9a09883ef242
 ```
 鸡场
 ```
 https://xn--mesx36n.net/
 ```
 ```
-https://8th-subscription-from-chickenfarmer.top/api/v1/client/subscribe?token=cae1161e3ecda57d831a4df1a6a97dc6
+https://8th-subscription-from-chickenfarmer.top/api/v1/client/subscribe?token=cae1161exxx3ecda57d831a4df1a6a97dc6
 ```
 急速机场
 ```
@@ -63,7 +63,7 @@ https://xn--mes358acgm99l.com/#/dashboard
 
 ```
 ```
-https://jsjc.cfd/api/v1/client/subscribe?token=ead589cc2925b11a55a320026c95b8ef
+https://jsjc.cfd/api/v1/client/subscribe?token=ead589ccs2925b11xxa55a320026c95b8ef
 ```
 ### PDF 处理 Stirling-PDF
 https://github.com/Stirling-Tools/Stirling-PDF?tab=readme-ov-file
