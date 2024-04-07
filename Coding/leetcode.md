@@ -4,7 +4,7 @@
 - [Climbing Stairs](#climbing-stairs)
 - [Palindrome Number](#palindrome-number)
 - [Decoded String](#decoded-string)
-- [Lemonade Change] (#lemonade-change)
+- [Lemonade Change](#lemonade-change)
 # Move Zeros
 ## Problem Description
 ```
