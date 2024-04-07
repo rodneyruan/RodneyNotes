@@ -3,8 +3,8 @@
 - [Remove Duplicates From Sorted Array](#remove-duplicates-from-sorted-array)
 - [Climbing Stairs](#climbing-stairs)
 - [Palindrome Number](#palindrome-number)
-- [Decode String](#decode-string)
-- [Lemonade Change] (#lemondae-change)
+- [Decoded String](#decoded-string)
+- [Lemonade Change] (#lemonade-change)
 # Move Zeros
 ## Problem Description
 ```
