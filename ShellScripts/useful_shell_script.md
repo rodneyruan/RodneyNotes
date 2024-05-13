@@ -11,3 +11,5 @@ a=5;b=3;echo $((a+b))
 echo $(expr 5 + 7)
 result=$(echo "5 + 7" | bc); echo $result
 ```
+### 计算总和
+cat  foo.txt |grep "BUY Order Filled at" | cut -d " " -f 10 |cut -d "," -f 1 |while read line; do a=$sum; sum=$(echo "$a + $line" | bc); echo $sum;done
