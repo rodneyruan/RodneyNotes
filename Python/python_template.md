@@ -89,4 +89,15 @@ train_df = pd.read_csv('/kaggle/input/titanic-data/train.csv', usecols=columns_t
 test_df_matcher = pd.read_csv('/kaggle/input/titanic-data/test.csv', usecols=columns_to_be_added_as_features + ['PassengerId'])
 test_df = test_df_matcher[columns_to_be_added_as_features]
 print(train_df.head())
+print("Number of rows in training set: {}".format(len(train_df)))
+
+# Convert string to float.
+for column_title in columns_to_be_added_as_features:
+    if column_title in ['Embarked', "Sex"]:
+        continue
+    train_df[column_title] = pd.to_numeric(train_df[column_title], downcast="float")
+    test_df[column_title] = pd.to_numeric(test_df[column_title], downcast="float")
+
+train_df["Survived"] = pd.to_numeric(train_df["Survived"], downcast="float")
+
 ```
