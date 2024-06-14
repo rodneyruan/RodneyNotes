@@ -81,3 +81,12 @@ print('Hello ' + name)
 Tuples look like read-only lists. However, tuples are most often used for a single item consisting of multiple parts.    
 Lists are usually a collection of distinct items, usually all of the same type.   
 Tuple 像是数据库的一行， 由不同的数据类型组成， List 通常是同一种数据类型， ordered, 体现的是 sequence   
+### 读取CSV文件
+```
+import pandas as pd
+columns_to_be_added_as_features = ['Sex','Age','SibSp','Parch','Pclass','Fare','Embarked']
+train_df = pd.read_csv('/kaggle/input/titanic-data/train.csv', usecols=columns_to_be_added_as_features + ['Survived'])
+test_df_matcher = pd.read_csv('/kaggle/input/titanic-data/test.csv', usecols=columns_to_be_added_as_features + ['PassengerId'])
+test_df = test_df_matcher[columns_to_be_added_as_features]
+print(train_df.head())
+```
