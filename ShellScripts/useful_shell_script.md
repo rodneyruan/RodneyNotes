@@ -13,3 +13,13 @@ result=$(echo "5 + 7" | bc); echo $result
 ```
 ### 计算总和
 cat  foo.txt |grep "BUY Order Filled at" | cut -d " " -f 10 |cut -d "," -f 1 |while read line; do a=$sum; sum=$(echo "$a + $line" | bc); echo $sum;done
+### If statement
+```
+if [ "$model" = "aaa" ] && [ "$cust_index" != "22" ]; then
+    echo a
+elif [ "$model" = "3452" ]; then
+    echo 3452
+else
+    echo b
+fi
+```
