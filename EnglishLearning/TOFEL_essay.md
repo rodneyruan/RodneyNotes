@@ -14,3 +14,12 @@ Finally, life in the countryside is often cheaper than in large cities. This can
 In conclusion, I believe that it is better for children to grow up in the countryside rather than in a large city. The countryside offers a more peaceful atmosphere, a stronger sense of community and a more affordable cost of living. All of these factors can help children have a healthier and more fulfilling  childhood.
 
 ```
+### Phases
+```
+crucial - Winning this contract is crucial to the succerss of the company.
+benefit - It will bring many benefits to the city. Some students might benefit from the project.  Exercise benefits our health. for the benefit of all
+beneficial - A stay in the country will be beneficial to his health. Targeted advertising can be beneficial.
+efficient - It’s a more efficient way to
+sufficient
+argue - Some people aruge that, while others believe..
+```
