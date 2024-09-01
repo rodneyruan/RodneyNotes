@@ -22,4 +22,6 @@ beneficial - A stay in the country will be beneficial to his health. Targeted ad
 efficient - It’s a more efficient way to
 sufficient
 argue - Some people aruge that, while others believe..
+controversial- This is a controversial topic, but I think
+concerned - targeted advertising isn’t an ethical problem I am not concerned about it.
 ```
