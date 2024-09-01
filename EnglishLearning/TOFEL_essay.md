@@ -17,7 +17,10 @@ In conclusion, I believe that it is better for children to grow up in the countr
 ### Phases
 ```
 crucial - Winning this contract is crucial to the succerss of the company.
+essential -  Hard work is essential to success.
 benefit - It will bring many benefits to the city. Some students might benefit from the project.  Exercise benefits our health. for the benefit of all
+
+ Rising living standards benefit our economy because they will bolster the population's buying power, which is the most essential contributor to the growth of the economy.
 beneficial - A stay in the country will be beneficial to his health. Targeted advertising can be beneficial.
 efficient - It’s a more efficient way to
 sufficient
