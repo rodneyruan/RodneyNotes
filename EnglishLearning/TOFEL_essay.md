@@ -30,4 +30,6 @@ concerned - targeted advertising isn’t an ethical problem I am not concerned a
 regardless of - She is determined to do regardless of all consequences. Regardless of cost.
 overestimated exaggerated overblown underestimated - The importance of doing sth is often overblown.
 
+collaborate, collaboration. agree to collaborate with him in doing sth. Collaboration between. In collaboration with. strengthen/enhance cooperation collaboration.
+
 ```
