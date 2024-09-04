@@ -17,10 +17,9 @@ In conclusion, I believe that it is better for children to grow up in the countr
 ### Phases
 ```
 crucial - Winning this contract is crucial to the succerss of the company.
-essential -  Hard work is essential to success.
-benefit - It will bring many benefits to the city. Some students might benefit from the project.  Exercise benefits our health. for the benefit of all
-
- Rising living standards benefit our economy because they will bolster the population's buying power, which is the most essential contributor to the growth of the economy.
+essential - Hard work is essential to success.
+benefit - It will bring many benefits to the city. Some students might benefit from the project. Exercise benefits our health. for the benefit of all.
+          Rising living standards benefit our economy because they will bolster the population's buying power, which is the most essential contributor to the growth of the economy.
 beneficial - A stay in the country will be beneficial to his health. Targeted advertising can be beneficial.
 efficient - It’s a more efficient way to
 sufficient
@@ -28,9 +27,9 @@ argue - Some people aruge that, while others believe..
 controversial- This is a controversial topic, but I think
 concerned - targeted advertising isn’t an ethical problem I am not concerned about it. I am deeply concerned...
 regardless of - She is determined to do regardless of all consequences. Regardless of cost.
-overestimated exaggerated overblown underestimated - The importance of doing sth is often overblown.
+overestimated, exaggerated, overblown, underestimated - The importance of doing sth is often overblown.
+collaborate, collaboration. agree to collaborate with him in doing sth. Collaboration between. In collaboration with. strengthen/enhance cooperation 
+collocation, collaboration, colleague, collaboration, college, collapse,collateral, collate, calibration,collusion
+include, conclude collude, exclude, preclude, excludesive.
 
-collaborate, collaboration. agree to collaborate with him in doing sth. Collaboration between. In collaboration with. strengthen/enhance cooperation collaboration.
-
-collocation, colleague, collaboration, college, collapse,collateral, collate, calibration,collusion(include, conclude collude, exclude, preclude, include, ) 
 ```
