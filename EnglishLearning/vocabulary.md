@@ -1,11 +1,14 @@
 #### Prefix 
 ```
-co: cooperate, coexist，coordinate
-col: collaboration, collocation, collect, collude, collate, colleague, college, collapse,collateral, collate, calibration,collusion, colingual, collegiate (college + iate)
+co-a, e, i, o, u: cooperate, coexist，coordinate
+col-l: collaboration, collocation, collect, collude, collate, colleague, college, collapse,collateral, collate, calibration,collusion, colingual, collegiate (college + iate)
+cor-r: correct, correlate, correspond, corrupt,corrigible, corroborate
+com-b,p,m: combine,combat, compare，complex，compose，compass，compassion，compact，component， comply，compete, complete, computer,company, compromise,compatriot,compelling,comprehend,compensate, competent,complain, compile
+comfort, commute   commend recommend
+command comment commence  commend,commerce, commercial
+common commute commit  commission commerce    community， command， commodity，communicate
+con-other consonants: confuse，contain,content,control,  connect,
 
-cor: correct, correlate, correspond, corrupt,corrigible, corroborate
-con:
-com:
 ```
 #### Suffix
 ```
