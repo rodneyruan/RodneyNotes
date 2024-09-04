@@ -1,5 +1,10 @@
 #### Prefix 
 ```
+co: cooperate, coexist
+col: collaboration, collocation, collect, college, collude,
+cor: correct, correlate, correspond, corrupt,corrigible, corroborate
+con:
+com:
 ```
 #### Suffix
 ```
