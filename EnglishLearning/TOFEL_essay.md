@@ -31,5 +31,5 @@ overestimated, exaggerated, overblown, underestimated - The importance of doing 
 collaborate, collaboration. agree to collaborate with him in doing sth. Collaboration between. In collaboration with. strengthen/enhance cooperation 
 collocation, collaboration, colleague, collaboration, college, collapse,collateral, collate, calibration,collusion
 include, conclude collude, exclude, preclude, excludesive.
-
+correct, correlate, correspond, corrupt,
 ```
