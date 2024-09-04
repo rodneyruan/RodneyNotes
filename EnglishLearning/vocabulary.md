@@ -1,7 +1,8 @@
 #### Prefix 
 ```
 co: cooperate, coexist，coordinate
-col: collaboration, collocation, collect, college, collude, collate
+col: collaboration, collocation, collect, collude, collate, colleague, college, collapse,collateral, collate, calibration,collusion, colingual, collegiate (college + iate)
+
 cor: correct, correlate, correspond, corrupt,corrigible, corroborate
 con:
 com:
