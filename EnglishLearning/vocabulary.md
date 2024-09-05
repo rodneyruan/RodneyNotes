@@ -51,6 +51,18 @@ surmount
 surplus
 survival sur->viv to live
 surveillance
+
+6. sub
+subdue   bring something under control or to reduce its intensity, often by force or persuasion. due means bring or lead
+substitute
+substantial 
+substance -  underlying foundation or essential nature of something. stance means to stand. substance means to stand.
+subscribe
+submit
+subcontinent
+subsidiary
+subtropics
+subordinate
 ```
 #### Suffix
 ```
