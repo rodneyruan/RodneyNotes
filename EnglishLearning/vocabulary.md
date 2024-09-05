@@ -26,6 +26,11 @@ commu--> commute community communicate
 con-other consonants: confuse，contain,content,control,  connect,
 
 ```
+suc-, suf-, sup-, sur 向下
+```
+首字母是什么就用哪个
+succeed，success，
+```
 #### Suffix
 ```
 ```
