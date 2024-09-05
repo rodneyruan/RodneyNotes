@@ -1,5 +1,6 @@
 #### Prefix 
 ```
+如果后续词根首字号为b，p，m前面就用com；如果后续词根菌开手不是b，p，m，且为r，l之外的字手前面就用con-
 co-a, e, i, o, u: cooperate, coexist，coordinate
 col-l: collaboration, collocation, collect, collude, collate, colleague, college, collapse,collateral, collate, calibration,collusion, colingual, collegiate (college + iate)
 cor-r: correct, correlate, correspond, corrupt,corrigible, corroborate
