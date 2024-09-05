@@ -14,7 +14,7 @@
 
 第五类表示数字，如：semi- mono- bi- tri- quad- penta-hex- sept(em)- oct- dec- multi- 等；其它类别，如：pro- auto- co- con-等。
 ```
-con,com,cor,col, co: 
+con,com,cor,col, co:  
 如果后续词根首字号为b，p，m前面就用com；如果后续词根菌开手不是b，p，m，且为r，l之外的字手前面就用con
 ```
 co-a, e, i, o, u: cooperate, coexist，coordinate
