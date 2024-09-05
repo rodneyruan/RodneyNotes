@@ -8,7 +8,7 @@ comprehend,compensate, competent,complain, compile
 comfort, commute   commend recommend
 comma-> command
 comme-> comment commence  re-commend commerce, commercial(merchant) commencement
-commi-> commit  commission commitment committee   
+commi-> committed(be committed to)  commission commitment committee   
 commo--> common  commodity，
 commu--> commute community communicate
 con-other consonants: confuse，contain,content,control,  connect,
