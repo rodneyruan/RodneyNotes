@@ -26,10 +26,31 @@ commu--> commute community communicate
 con-other consonants: confuse，contain,content,control,  connect,
 
 ```
-suc-, suf-, sup-, sur 向下
+sub-> suc-, suf-, sup-, sur , under, in place of,or from below. This prefix often implies a humble or submissive position.
 ```
 首字母是什么就用哪个
-succeed，success，
+1. suc
+succeed，success，succinct, cinct束缚, succumb屈从 cumb躺下,  succumb to pressure
+2. suf
+sufficient, suffer, suffix, suffuse fuse 流, suffocate foc脖子
+3. sup
+supplant, replace -- The law of momentum conservation could supplant Newton's third law.
+supplicate, beg for something  --plic meas to fold. It is related to the idea of bending or folding oneself in a humble manner.
+supplement ple means to fill, like complete, replete
+supper, support, supply, supplicant, suppress, suppose
+4. sur 表下 拉丁语
+surrogate 代替者 rog-to ask, propose
+surreptitious reptile, rept  meaning “to seize” or “to snatch.” This root is related to the idea of taking or doing something secretly.
+5. sur 表上 法语 means over, or above.
+surround
+surrender
+surface
+surpass
+surrealism
+surmount
+surplus
+survival sur->viv to live
+surveillance
 ```
 #### Suffix
 ```
