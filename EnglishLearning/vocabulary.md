@@ -70,6 +70,12 @@ subordinate
 ial:
 essential essence, 词根 sent, 前面加es， ex的变种表示out of, 形容词加ial， essential, 名词把t 改成 ce
 substantial, substance
+
+ssion- sion
+-ssion is often used when the root word ends in -mit or -cede.
+mission procession
+-sion is used when the root word ends in -de, -se, or -ge.
+decide->decision confuse->confusion invade->invasion erode->erosion
 ```
 #### root
 ```
