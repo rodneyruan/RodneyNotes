@@ -77,6 +77,7 @@ mit miss
 missile,promise
 mit-mission transmit-transmission  commit-commission  admit-admission commit-commission dismiss-dismission permit-permission submit-submission omit-omission emit-emission
 remit(汇款免除减轻）-remission
+committee-> 双写t加ee，与employee类似
 ```
 #### Rule for double consonant
 The verb is a single syllable or stressed on the last syllable.   
