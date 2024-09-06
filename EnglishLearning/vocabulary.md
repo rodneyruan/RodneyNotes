@@ -73,7 +73,10 @@ substantial, substance
 ```
 #### root
 ```
-mit miss transmission 词根miss 同mit 前面加trans, +ion 得到transmission
+mit miss
+missile,promise
+mit-mission transmit-transmission  commit-commission  admit-admission commit-commission dismiss-dismission permit-permission submit-submission omit-omission emit-emission
+remit(汇款免除减轻）-remission
 ```
 #### Rule for double consonant
 The verb is a single syllable or stressed on the last syllable.   
