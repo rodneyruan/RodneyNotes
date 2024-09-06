@@ -66,6 +66,14 @@ subordinate
 ```
 #### Suffix
 ```
+
+ial:
+essential essence, 词根 sent, 前面加es， ex的变种表示out of, 形容词加ial， essential, 名词把t 改成 ce
+substantial, substance
+```
+#### root
+```
+mit miss transmission 词根miss 同mit 前面加trans, +ion 得到transmission
 ```
 #### Rule for double consonant
 The verb is a single syllable or stressed on the last syllable.   
