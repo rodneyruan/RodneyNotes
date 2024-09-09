@@ -76,6 +76,16 @@ others -> in
 incomplete  inaccurate 
  
 ```
+```
+ob -> o, oc of op
+obvious
+obscure obstruction obsolete object obviate obdurate obfuscate obtain obligation obliterate 
+oc occupy
+of offend
+op oppose
+o omit, 这个比较特殊， 不需要双写m
+omit oppose object 
+```
 
 ```
 de down away reverse remove
