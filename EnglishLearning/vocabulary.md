@@ -76,6 +76,24 @@ others -> in
 incomplete  inaccurate 
  
 ```
+
+```
+de down away reverse remove
+decode demote deflate deactivate decompose defrost devalue destruction decline decrease 
+depress descent 
+
+demilitarization  denazify dazification 
+decentralization 
+
+加强 declare design  define describe detail demonstrate 
+di 分离
+distinguish diverse division  
+
+dis 否定
+disagree disappear disorder 
+disable discourage displace
+discount dismiss disposal dissolve distribute disturb 
+```
 #### Suffix
 ```
 
