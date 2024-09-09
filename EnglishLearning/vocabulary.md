@@ -64,6 +64,18 @@ subsidiary
 subtropics
 subordinate
 ```
+in im ir il
+```
+prefix in, variant in im ir il 
+b p m -> im imprison  import immune immigration imply impolite impossible immoral immature imperial imperfect 
+r -> ir irrigation irrupt irrelevant irrational irresponsible 
+l -> il  illegal  illustrate illiterate
+others -> in 
+内部： inside inland intake involve inject incentive
+否定 incorrect informal information incompetent incapable injustice invisible
+incomplete  inaccurate 
+ 
+```
 #### Suffix
 ```
 
