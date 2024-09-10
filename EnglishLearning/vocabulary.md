@@ -64,10 +64,30 @@ subsidiary
 subtropics
 subordinate
 ```
+
+```
+Prefix ec (English)- out or away from
+ex- (Latin)
+ 
+
+The ‘x’ of the ‘ex’ drops out in front of a word beginning with the consonants: b, d, g, j, l, m, n, r, and v.
+double consonant  eff- effective， 
+
+
+exclude exaggerate excel 
+evident
+exit 
+eject egress
+eclipse
+effect
+
+ex-president ex-wife
+
+```
 in im ir il
 ```
 prefix in, variant in im ir il 
-b p m -> im imprison  import immune immigration imply impolite impossible immoral immature imperial imperfect 
+b p m -> im imprison  import immune immigration imply impolite impossible immoral immature imperial imperfect impressive
 r -> ir irrigation irrupt irrelevant irrational irresponsible 
 l -> il  illegal  illustrate illiterate
 others -> in 
