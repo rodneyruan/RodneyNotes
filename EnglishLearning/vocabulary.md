@@ -156,8 +156,12 @@ E.g., dragging, stopped, swimmer.
 ### 容易忘记的单词
 ```
 literacy - the ability to read and write 
-literate 
-literature -文学作品
+literate literature -文学作品
 literary  - literary talent
 literarily - 字面上
+```
+```
+conscious -> awake aware
+cognitive cognition recognition recognize -> know understand recognize
+
 ```
