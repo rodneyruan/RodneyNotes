@@ -152,3 +152,12 @@ committee-> 双写t加ee，与employee类似
 The verb is a single syllable or stressed on the last syllable.   
 The verb ends in a single vowel followed by a single consonant.  
 E.g., dragging, stopped, swimmer.
+
+### 容易忘记的单词
+```
+literacy - the ability to read and write 
+literate 
+literature -文学作品
+literary  - literary talent
+literarily - 字面上
+```
