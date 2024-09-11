@@ -161,7 +161,7 @@ literary  - literary talent
 literarily - 字面上
 ```
 ```
-conscious -> awake aware
+conscious unconscious -> awake aware
 cognitive cognition recognition recognize -> know understand recognize
 
 ```
