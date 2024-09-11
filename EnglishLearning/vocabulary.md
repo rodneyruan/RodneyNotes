@@ -163,5 +163,6 @@ literarily - 字面上
 ```
 conscious unconscious -> awake aware
 cognitive cognition recognition recognize -> know understand recognize
-
+foster
+perseverance severe persevere
 ```
