@@ -29,7 +29,7 @@ con-other consonants: confuse，contain,content,control,  connect,
 
 ```
 en em
-enable empower
+enable empower engage in  enhance
 ```
 sub-> suc-, suf-, sup-, sur , under, in place of,or from below. This prefix often implies a humble or submissive position.
 ```
@@ -96,7 +96,7 @@ b p m -> im imprison  import immune immigration imply impolite impossible immora
 r -> ir irrigation irrupt irrelevant irrational irresponsible 
 l -> il  illegal  illustrate illiterate
 others -> in 
-内部： inside inland intake involve inject incentive
+内部： inside inland intake involve inject incentive incorperate inspire
 否定 incorrect informal information incompetent incapable injustice invisible
 incomplete  inaccurate 
  
