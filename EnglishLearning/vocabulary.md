@@ -26,6 +26,11 @@ commu--> commute community communicate
 con-other consonants: confuse，contain,content,control,  connect,
 
 ```
+
+```
+en em
+enable empower
+```
 sub-> suc-, suf-, sup-, sur , under, in place of,or from below. This prefix often implies a humble or submissive position.
 ```
 首字母是什么就用哪个
