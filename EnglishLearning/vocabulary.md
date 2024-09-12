@@ -148,6 +148,9 @@ mit-mission transmit-transmission  commit-commission  admit-admission commit-com
 remit(汇款免除减轻）-remission
 committee-> 双写t加ee，与employee类似
 ```
+```
+pens to weigh, to pay 		pension suspension suspense  compensate  dispense with, recompense,  expensive， indispensable 
+```
 #### Rule for double consonant
 The verb is a single syllable or stressed on the last syllable.   
 The verb ends in a single vowel followed by a single consonant.  
