@@ -23,3 +23,27 @@ else
     echo b
 fi
 ```
+
+### 数值计算
+```
+#!/bin/bash
+
+# Function to run both commands
+run_commands() {
+    local counter=0
+    while true; do
+        # Run the first command every 2 seconds
+        dmcli eRT getv Device.Hosts. >/dev/null
+        sleep 2
+        counter=$((counter + 2))
+
+        # Run the second command every minute (60 seconds)
+        if (( counter % 60 == 0 )); then
+            date; top -b -m -n 1 | grep -v grep | grep CcspLMLite | cut -d ' ' -f 6
+        fi
+    done
+}
+
+# Run the function
+run_commands
+```
