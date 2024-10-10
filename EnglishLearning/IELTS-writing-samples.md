@@ -75,4 +75,5 @@ The bar chart displays shows illustrates the amount of foreign investment in Ind
 
 Overall, the expenditure in China declined steadily through the period. 
 It fluctuated in India. 
+Despite this, the total amount of money that floated into China was higher than in India. 
 ```
