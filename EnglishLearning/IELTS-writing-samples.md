@@ -69,3 +69,10 @@ Balancing Literacy and Musical Education
 While reading and writing are indispensable, incorporating music education into a child’s life can significantly enhance their overall development. It can improve academic performance, boost self-confidence, and provide a well-rounded education. Schools and parents should strive to balance these skills, ensuring that children have the opportunity to benefit from both literacy and musical education.
 
 ```
+
+```
+The bar chart displays shows illustrates the amount of foreign investment in India and China from 2014 to 2019. 
+
+Overall, the expenditure in China declined steadily through the period. 
+It fluctuated in India. 
+```
