@@ -76,4 +76,5 @@ The bar chart displays shows illustrates the amount of foreign investment in Ind
 Overall, the expenditure in China declined steadily through the period. 
 It fluctuated in India. 
 Despite this, the total amount of money that floated into China was higher than in India. 
+The Chinese economy received just under 80 billion dollars in 2014. While it fell to around 60 billion dollars In 2015 and 2016.After a slight decrease in 2017,There was a massive resurgence to a high point of more than 100 billion dollars in two thousand eighteen. 
 ```
