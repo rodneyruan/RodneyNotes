@@ -79,3 +79,20 @@ Despite this, the total amount of money that floated into China was higher than 
 The Chinese economy received just under 80 billion dollars in 2014. While it fell to around 60 billion dollars in 2015 and 2016.After a slight decrease in 2017,there was a massive resurgence to a high point of more than 100 billion dollars in 2018, before falling or receding to just over 40 billion dollars in 2019. 
 In 2014, foreign investment into india's economy reached more than 40 billion dollars, then rose significantly to approximately 60 billion dollars in 2015 and 2016, Before falling back to 2014 levels in 2017. In 2018, there was another dramatic increase to just below 60 billion dollars, before returning to around 20 billion dollars in 2019. 2015 was the only year india's level of foreign investment exceeded china's. With values of slightly over 60 billion dollars. And slightly below 60 billion dollars respectively. 
 ```
+
+
+The pie chart illustrates the distribution of time spent on various activities over the course of a week. The chart is divided into four segments: work, leisure, exercise, and sleep.
+
+**Work** occupies the largest portion of the chart, accounting for 40% of the total time. This indicates that a significant amount of the week is dedicated to professional responsibilities.
+
+**Leisure** follows, comprising 30% of the chart. This segment reflects the importance of downtime and relaxation in maintaining a balanced lifestyle.
+
+**Exercise** makes up 15% of the chart, highlighting that while physical activity is essential, it takes up less time compared to work and leisure. This suggests that individuals may need to prioritize fitness more in their weekly schedules.
+
+Lastly, **sleep** represents 15% of the chart as well. This portion emphasizes the crucial role of rest in overall well-being, although it may seem lower than expected given the recommended hours of sleep.
+
+In summary, the pie chart effectively illustrates how individuals allocate their time throughout the week, with work taking the largest share, followed by leisure, exercise, and sleep.
+
+---
+
+Feel free to adjust any specifics based on the actual data from the pie chart you have!
