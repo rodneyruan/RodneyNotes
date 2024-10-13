@@ -96,3 +96,14 @@ In summary, the pie chart effectively illustrates how individuals allocate their
 ---
 
 Feel free to adjust any specifics based on the actual data from the pie chart you have!
+
+
+波峰和波谷的描述
+
+ in xx year ，the number/percentage … reached the bottom .
+ However/on the contrary，year 2022 saw the peak during this period.
+
+ the number/percentage reached(amounted to) a peak of… / a high point at …
+（3）……时间点，when the number/percentage bottomed out (at…)
+
+August saw another peak in sales, suggesting that marketing efforts or new product launches during this time were successful.
