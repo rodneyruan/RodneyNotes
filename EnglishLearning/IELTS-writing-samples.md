@@ -107,3 +107,6 @@ Feel free to adjust any specifics based on the actual data from the pie chart yo
 （3）……时间点，when the number/percentage bottomed out (at…)
 
 August saw another peak in sales, suggesting that marketing efforts or new product launches during this time were successful.
+
+
+This line chart illustrates the trend of average monthly temperatures in Shenzhen over the year 2024. At the beginning of January, the temperature stood at 14°C. Over the next few months, the temperature experienced a gradual increase, reaching 24°C by April. Notably, there was a sharp spike around July, likely due to summer heatwaves, with temperatures peaking at 32°C. As we move toward the end of the year, the trend shows a steady decline, finishing at 16°C by December. The overall trend suggests that Shenzhen experiences significant seasonal temperature variations, with the hottest months being July and August and the coolest months being January and February.
