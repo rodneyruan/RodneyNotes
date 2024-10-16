@@ -154,6 +154,28 @@ remit(汇款免除减轻）-remission
 committee-> 双写t加ee，与employee类似
 ```
 ```
+syn- sym syl sy = together, same
+sym: b-p-m 
+syl: l
+sy: s-z
+syn:others
+
+synonym antonym 
+syntax syntactic, syntactic sematic
+synthesis 
+synthetic
+synopsis
+syndrome
+synchronous
+synchronize
+syllable
+symphony
+sympathy
+symbiosis
+symmetry
+
+```
+```
 pens to weigh, to pay 		pension suspension suspense  compensate  dispense with, recompense,  expensive， indispensable 
 ```
 #### Rule for double consonant
