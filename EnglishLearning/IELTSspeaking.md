@@ -22,3 +22,22 @@ Like Sweat pants And a hoodie.
 
 
 The place where i'm able to relax and unwind the most is a small park near my home. The park is just down the road from my apartment.Not far from the main walking street.Which is busy at all hours of the day.
+Fully covered by trees and vegetation. it is a Peaceful oasis In the midst of the city.
+I find it to be the perfect place to escape the hustle. And bustle of the city.
+
+The park is well maintained. There are plenty of benches and picnic tables where i can sit and enjoy the scenery。
+Sometimes on the weekend afternoon i will bring some snacks. And drinks, and have a picnic with my friends.
+Other times, i prefer to go alone and bring a book.
+There is also someExercise equipment and a basketball Court.
+I have never used the exercise equipment, and sometimes i play basketball with my neighbors.
+It's pretty lively  in the park on a summer night.
+At least once a week, there will be group exercise in the evening.And sometimes there are community events.
+Whether i'm reading or taking a walk, or just simply enjoying the peaceful  atmosphere i  always Feel relaxed and refreshed when i leave.
+
+How do students relax themselves? 
+There are many ways that students can relax and unwind. Depending on their interests and preferences.
+Some students might choose to engage in physical activities such as sports exercise. And yoga.
+Well, others might prefer more passive forms of relaxation, such as Reading, listening to music And watching movies.
+
+Many students also find that spending time with family. Engaging in creative pursuits like painting or  photography.  Travelling to a new place can be very relaxing and
+Rejuvenating.
