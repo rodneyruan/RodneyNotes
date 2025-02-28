@@ -17,7 +17,7 @@ PTK 单播用的key
 GTK 组播广播用的key
 PSK 俗称的WIFI 密码生成的
 PMK 由PSK生成
-PTK 是由 PMK, A_nonce 和S_nonce，经一个伪随机函数生成
+PTK 是由 PMK, A_nonce 和S_nonce，双方的MAC地址 经一个伪随机函数生成
 MIC 是PTK的前16位的哈希， 校验用的
 GTK AP生成，deliver 给STA， 由PTK加密
 
