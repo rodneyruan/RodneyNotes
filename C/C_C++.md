@@ -28,6 +28,35 @@ int main()
 1  在c中，联合体（共用体）的数据成员都是从低地址开始存放。 
 2  若是小端模式，由低地址到高地址c.a存放为0x01 00 00 00，c.b被赋值为0x01；
 ```
+```
+#include <stdio.h>
+
+int main() {
+    // Use an integer (4 bytes) and check byte order
+    unsigned int num = 0x12345678;
+    
+    // Cast to a char pointer to inspect individual bytes
+    unsigned char *ptr = (unsigned char *)&num;
+
+    // Check the first byte in memory
+    if (*ptr == 0x12) {
+        printf("System is Big-Endian\n");
+    } else if (*ptr == 0x78) {
+        printf("System is Little-Endian\n");
+    } else {
+        printf("Unexpected byte order!\n");
+    }
+
+    // Optional: Print all bytes for clarity
+    printf("Byte order: ");
+    for (int i = 0; i < sizeof(num); i++) {
+        printf("%02x ", ptr[i]);
+    }
+    printf("\n");
+
+    return 0;
+}
+```
 ### Issue that causes Linecard issue
 It has different result on ARM and ATOM  
 ```
